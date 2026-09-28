@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.svg" width="160" alt="Parasitology Contest logo"></p>
+
 # Parasitology Contest
 
 เว็บฝึกทำข้อสอบ Parasitology Contest จากข้อสอบที่รวบรวมได้ปี 2021–2025 เป็นไฟล์ HTML ไฟล์เดียว ไม่ต้องติดตั้งอะไร
