@@ -1202,9 +1202,10 @@
  {
   "ch": "cestode",
   "y": [
-   2022
+   2022,
+   2025
   ],
-  "src": "Level 2 · Q2",
+  "src": "Level 2 · Q2 / 2025 PS L2 Q1",
   "q": "This photomicrograph shows a scolex of a cestode. Name the intermediate host for this parasite.",
   "a": "<b>Pig</b> — scolex of <i>Taenia solium</i> (humans can also be accidental intermediate hosts)",
   "kw": [
@@ -1339,9 +1340,10 @@
  {
   "ch": "cestode",
   "y": [
-   2022
+   2022,
+   2025
   ],
-  "src": "Level 2 · Q6",
+  "src": "Level 2 · Q6 / 2025 GF-L2 Q9",
   "q": "This whitish, worm-like structure was extracted from the eyelid of a patient. Name the parasitic diseases that this patient MOST likely has.",
   "a": "<b>(Ocular) sparganosis</b> — plerocercoid (sparganum) of <i>Spirometra</i> spp.",
   "kw": [
@@ -2238,9 +2240,10 @@
  {
   "ch": "arthropod",
   "y": [
-   2022
+   2022,
+   2025
   ],
-  "src": "Level 2 · Q8",
+  "src": "Level 2 · Q8 / 2025 PS L2 Q6",
   "q": "These are eggs of a mosquito. Identify the genus.",
   "a": "<b><i>Culex</i></b> (egg raft)",
   "kw": [
@@ -2884,7 +2887,7 @@
   "note": null
  },
  {
-  "ch": "protozoa",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3257,7 +3260,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3274,7 +3277,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "trematode",
   "y": [
    2025
   ],
@@ -3290,7 +3293,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3307,7 +3310,7 @@
   "note": "เชื่อมโยงกับคำถามในชุดข้อสอบเดิมเรื่อง Wolbachia ใน Aedes aegypti - เพิ่มปี 2025 ในข้อเดิมแล้ว (ข้อนี้เก็บไว้เพื่อรายละเอียด wMel strain โดยเฉพาะ)"
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3324,7 +3327,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3340,7 +3343,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "protozoa",
   "y": [
    2025
   ],
@@ -3356,7 +3359,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3372,7 +3375,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3388,7 +3391,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3407,7 +3410,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3441,7 +3444,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "arthropod",
   "y": [
    2025
   ],
@@ -3460,7 +3463,7 @@
   "note": null
  },
  {
-  "ch": "nematode",
+  "ch": "protozoa",
   "y": [
    2025
   ],
@@ -3601,24 +3604,6 @@
   "note": null
  },
  {
-  "ch": "cestode",
-  "y": [
-   2025
-  ],
-  "src": "PS L2 Q1",
-  "q": "Name this parasite species and its intermediate host.",
-  "a": "<i>Taenia solium</i> (armed scolex: rostellum with a double row of hooks + 4 suckers); intermediate host = <b>pig</b> (humans can also act as intermediate host → cysticercosis)",
-  "kw": [
-   "solium",
-   "pig",
-   "swine"
-  ],
-  "ex": "ภาพเป็น scolex ที่มี rostellum และ<b>ขอ (hooks)</b> เรียงรอบ ร่วมกับ sucker 4 อัน = <b>armed scolex</b> ซึ่งเป็นลักษณะของ <i>T. solium</i> (ต่างจาก <i>T. saginata</i> ที่ไม่มีขอ) โฮสต์กึ่งกลางคือ<b>หมู</b> และคนก็เป็นโฮสต์กึ่งกลางได้ถ้ากินไข่เข้าไป ทำให้เกิด cysticercosis/neurocysticercosis",
-  "img": "y25_scolex",
-  "pts": null,
-  "note": null
- },
- {
   "ch": "trematode",
   "y": [
    2025
@@ -3654,24 +3639,6 @@
   "note": null
  },
  {
-  "ch": "arthropod",
-  "y": [
-   2025
-  ],
-  "src": "PS L2 Q6",
-  "q": "This was found floating on the surface of the water. Name the genus of mosquito to which these eggs belong and a parasitic disease that can be transmitted by this mosquito to humans.",
-  "a": "<i>Culex</i> (eggs laid together as a floating <b>egg raft</b>); transmits <b>lymphatic filariasis</b> (<i>Wuchereria bancrofti</i>)",
-  "kw": [
-   "culex",
-   "filariasis",
-   "bancrofti"
-  ],
-  "ex": "ไข่ที่วางติดกันเป็นแพลอยบนผิวน้ำ (<b>egg raft</b>) = <i>Culex</i> เทียบกับ <i>Anopheles</i> ที่วางไข่เดี่ยวมีทุ่นลอย (float) 2 ข้าง, <i>Aedes</i> วางไข่เดี่ยวเหนือระดับน้ำ, <i>Mansonia</i> วางไข่เป็นกลุ่มใต้ใบพืชน้ำ <i>Culex quinquefasciatus</i> เป็นพาหะของ <i>W. bancrofti</i> แบบในเมือง (Japanese encephalitis ก็ติดทาง <i>Culex</i> แต่เป็นไวรัส ไม่ใช่ปรสิต)",
-  "img": "y25_mosquitoeggs",
-  "pts": null,
-  "note": null
- },
- {
   "ch": "nematode",
   "y": [
    2025
@@ -3689,24 +3656,5 @@
   "img": "y25_riverorganism",
   "pts": null,
   "note": null
- },
- {
-  "ch": "cestode",
-  "y": [
-   2025
-  ],
-  "src": "GF-L2 Q9",
-  "q": "This whitish, worm-like structure was extracted from the eyelid of a patient. Name the stage of this larva and parasitic disease that this patient likely has.",
-  "a": "<b>Plerocercoid (sparganum)</b> of <i>Spirometra</i> spp. → <b>ocular sparganosis</b>",
-  "kw": [
-   "plerocercoid",
-   "sparganum",
-   "sparganosis",
-   "spirometra"
-  ],
-  "ex": "ตัวที่ดึงออกจากเปลือกตามีลักษณะ<b>เป็นแถบแบนสีขาวขุ่น ย่นเป็นริ้ว ยาวหลายเซนติเมตร ไม่มีปล้องชัด</b> ตรงกับ sparganum (plerocercoid ของ <i>Spirometra</i>) คนติดจากการกินกบ/งูดิบ ดื่มน้ำที่มี Cyclops ติด procercoid หรือ<b>พอกเนื้อกบ/งูดิบที่ตา</b> (พบในเอเชีย) ทำให้เกิด ocular sparganosis ที่เปลือกตาบวม",
-  "img": "y25_eyelidworm",
-  "pts": null,
-  "note": "ภาพจากจอเล็กและไม่ชัด คำตอบอื่นที่เป็นไปได้คือ Gnathostoma spinigerum advanced L3 (ocular gnathostomiasis) หรือ Dirofilaria ถ้ามีเฉลยจริงให้ยึดตามเฉลย"
  }
 ]
