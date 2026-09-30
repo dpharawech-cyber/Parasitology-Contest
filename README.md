@@ -11,7 +11,7 @@
 
 ## มีอะไรบ้าง
 
-- **ฝึกพิมพ์ตอบ** 175 ข้อ แบ่ง 7 บท มีเฉลยและคำอธิบาย บอกว่าข้อไหนออกปีไหน กรองตามปีได้
+- **ฝึกพิมพ์ตอบ** 181 ข้อ แบ่ง 7 บท มีเฉลยและคำอธิบาย บอกว่าข้อไหนออกปีไหน กรองตามปีได้
   - Basic Parasitology · General knowledge · Protozoa · Cestode/Acanthocephalans · Trematode · Nematode · Arthropods
 - **Flashcards** ทบทวนแบบ spaced repetition (แบบ Anki)
 - **สรุปเนื้อหา** รายบท พร้อมรายการข้อที่ออกซ้ำหลายปี
