@@ -1202,6 +1202,376 @@
    "img": null,
    "pts": null,
    "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the mature cyst of Entamoeba histolytica from that of Entamoeba coli?",
+   "a": "<i>E. histolytica</i>: up to <b>4 nuclei</b>, small <b>central</b> karyosome, fine even peripheral chromatin, chromatoid bodies with <b>blunt rounded ends</b>. <i>E. coli</i>: up to <b>8 nuclei</b>, <b>eccentric</b> karyosome, coarse irregular peripheral chromatin, <b>splinter-like</b> (pointed) chromatoid bodies",
+   "kw": [
+    "4 nuclei",
+    "four nuclei",
+    "8 nuclei",
+    "eight nuclei",
+    "karyosome",
+    "chromatoid"
+   ],
+   "ex": "จำง่าย ๆ: histolytica = 4 นิวเคลียส karyosome อยู่กลาง chromatoid ปลายมน, coli = 8 นิวเคลียส karyosome เยื้องศูนย์ chromatoid ปลายแหลมเหมือนเสี้ยนไม้ ซีสต์ของ E. histolytica แยกจาก E. dispar ด้วยกล้องไม่ได้",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "On a thin blood smear, state the features that distinguish Plasmodium falciparum from Plasmodium vivax.",
+   "a": "<i>P. falciparum</i>: RBC <b>not enlarged</b>, many delicate rings (multiple per RBC, <b>accolé</b>, double chromatin dots), <b>banana-shaped gametocytes</b>, Maurer's clefts, usually only rings and gametocytes in peripheral blood. <i>P. vivax</i>: RBC <b>enlarged and pale</b> with <b>Schüffner's dots</b>, amoeboid trophozoites, all stages present, schizonts with 12–24 merozoites",
+   "kw": [
+    "enlarge",
+    "schuffner",
+    "schüffner",
+    "banana",
+    "crescent",
+    "accol"
+   ],
+   "ex": "เป็นคู่ที่ออกบ่อยที่สุดในการตรวจเลือด Pf: RBC ขนาดปกติ ring หลายวง เกาะขอบ gametocyte รูปกล้วย, Pv: RBC โต ซีด มีจุด Schüffner ตัว amoeboid เห็นได้ครบทุกระยะ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How can Plasmodium ovale be distinguished from Plasmodium vivax on a thin smear?",
+   "a": "<i>P. ovale</i>: infected RBC enlarged but <b>oval with fimbriated (ragged) edges</b>, James's dots, more <b>compact</b> trophozoite, schizont with about <b>8 merozoites</b>. <i>P. vivax</i>: RBC round and enlarged, amoeboid trophozoite, schizont with 12–24 merozoites",
+   "kw": [
+    "oval",
+    "fimbriat",
+    "8 merozoite",
+    "compact"
+   ],
+   "ex": "ทั้งคู่ทำให้ RBC โตและมี hypnozoite เหมือนกัน จุดแยกคือรูปร่าง RBC (ovale เป็นรูปไข่ ขอบหยัก) และจำนวน merozoite ใน schizont",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "Why is Plasmodium knowlesi frequently misdiagnosed by microscopy, and how is it confirmed?",
+   "a": "Its <b>early rings resemble <i>P. falciparum</i></b> and its <b>later stages (band forms) resemble <i>P. malariae</i></b>; confirmation is by <b>PCR</b> (species-specific). Clues: 24-hour cycle and high parasitaemia with 'malariae-like' morphology",
+   "kw": [
+    "pcr",
+    "falciparum",
+    "malariae",
+    "band"
+   ],
+   "ex": "ข้อสอบปี 2022 เคยถามเรื่องผล PCR ไม่ตรงกับกล้องจุลทรรศน์ ข้อนี้คือเหตุผล ถ้าเห็นรูปแบบ P. malariae แต่ parasitaemia สูงและไข้ทุกวัน ให้สงสัย knowlesi",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "State three features that distinguish Babesia from Plasmodium falciparum on a blood smear.",
+   "a": "<i>Babesia</i>: <b>no haemozoin pigment</b>, <b>no schizonts or gametocytes</b>, tetrads (<b>Maltese cross</b>), extracellular parasites and pleomorphic/vacuolated rings; transmitted by <i>Ixodes</i> ticks rather than mosquitoes",
+   "kw": [
+    "pigment",
+    "hemozoin",
+    "haemozoin",
+    "tetrad",
+    "maltese",
+    "gametocyte"
+   ],
+   "ex": "ring ของ Babesia หน้าตาเหมือน P. falciparum มาก จุดที่ใช้แยกคือไม่มี pigment ไม่มีระยะอื่นนอกจาก ring และอาจเห็นรูปกากบาท (tetrad)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you differentiate a trypomastigote of Trypanosoma brucei from that of Trypanosoma cruzi in a blood smear?",
+   "a": "<i>T. brucei</i>: slender, <b>small subterminal kinetoplast</b>, prominent undulating membrane, divides in blood. <i>T. cruzi</i>: <b>C- or U-shaped</b> with a <b>large terminal kinetoplast</b>; does not divide in blood (multiplies as intracellular amastigotes)",
+   "kw": [
+    "kinetoplast",
+    "c-shape",
+    "c shape",
+    "u-shape",
+    "undulating"
+   ],
+   "ex": "ภาพ T. cruzi ในหน้าสรุปเป็นตัวโค้งรูป C และ kinetoplast ใหญ่ ส่วน T. brucei ตัวยาวเรียว เยื่อหยัก (undulating membrane) ชัด",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "Compare the oocysts of Cryptosporidium, Cyclospora and Cystoisospora.",
+   "a": "All are modified acid-fast positive. <b>Size</b>: <i>Cryptosporidium</i> <b>4–6 µm</b> (round); <i>Cyclospora</i> <b>8–10 µm</b> (round, variable acid-fast staining, <b>autofluoresces</b> under UV); <i>Cystoisospora</i> <b>20–30 µm</b> (ellipsoidal, 2 sporocysts when mature)",
+   "kw": [
+    "4-6",
+    "4–6",
+    "8-10",
+    "8–10",
+    "autofluoresc",
+    "size"
+   ],
+   "ex": "ขนาดคือจุดแยกหลัก: Crypto เล็กสุด, Cyclospora ราวสองเท่า, Cystoisospora ใหญ่และรี ตัวที่ใช้ TMP-SMX คือ Cyclospora และ Cystoisospora ส่วน Crypto ใช้ nitazoxanide",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish a gravid proglottid of Diphyllobothrium latum from that of Taenia?",
+   "a": "<i>Diphyllobothrium</i>: proglottid <b>broader than long</b>, <b>central rosette-shaped uterus</b>, genital pore midventral. <i>Taenia</i>: proglottid <b>longer than broad</b>, branched (dendritic) uterus, <b>lateral</b> genital pore",
+   "kw": [
+    "rosette",
+    "wider",
+    "broader",
+    "central",
+    "lateral"
+   ],
+   "ex": "ปี 2025 ถามลักษณะ gravid proglottid ของตืดที่ยาวที่สุด (D. latum) คู่เทียบที่ควรรู้คือ Taenia ที่ปล้องยาวกว่ากว้าง มดลูกแตกแขนงด้านข้าง",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the egg of Hymenolepis nana from that of Hymenolepis diminuta?",
+   "a": "<i>H. nana</i>: smaller (~30–47 µm), thin shell, inner membrane with two polar thickenings bearing <b>4–8 polar filaments</b>. <i>H. diminuta</i>: larger (~70–86 µm), yellow-brown, <b>no polar filaments</b>",
+   "kw": [
+    "polar filament",
+    "filament"
+   ],
+   "ex": "polar filament มีเฉพาะ H. nana ดูภาพเปรียบเทียบได้ในหน้าสรุปบท Cestode",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish adult Fasciola hepatica from Fasciolopsis buski, given that their eggs look alike?",
+   "a": "<i>Fasciola</i>: has a <b>cephalic cone</b> with 'shoulders', <b>branched</b> intestinal caeca and testes, lives in the <b>bile ducts</b>. <i>Fasciolopsis</i>: <b>no cephalic cone</b>, unbranched caeca, lives in the <b>small intestine</b> (largest intestinal fluke)",
+   "kw": [
+    "cephalic cone",
+    "shoulder",
+    "bile",
+    "intestin",
+    "caeca",
+    "ceca"
+   ],
+   "ex": "ไข่ของทั้งสองใหญ่ มีฝาเล็ก และไม่มีตัวอ่อน แยกด้วยกล้องแทบไม่ได้ จึงต้องดูตัวเต็มวัยหรือประวัติ (กินผักน้ำทั้งคู่)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish adult Opisthorchis viverrini from Clonorchis sinensis?",
+   "a": "<b>Testes</b>: <i>Opisthorchis</i> has <b>lobed</b> testes; <i>Clonorchis</i> has <b>highly branched (dendritic)</b> testes. <i>Opisthorchis</i> is smaller; distribution: Thailand/Laos/Cambodia/Vietnam (O. viverrini) vs China/Korea/Japan/northern Vietnam (C. sinensis). Eggs are almost identical",
+   "kw": [
+    "testes",
+    "lobed",
+    "branched",
+    "dendritic"
+   ],
+   "ex": "ชื่อ Opisthorchis = อวัยวะสืบพันธุ์อยู่ท้ายตัว ส่วน Clonorchis = testes แตกแขนงคล้ายกิ่งไม้ ไข่ทั้งสองมีฝาพร้อมไหล่และปุ่มท้ายเหมือนกัน",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish a fertile from an infertile Ascaris lumbricoides egg?",
+   "a": "<b>Fertile</b>: round-oval ~45–75 µm, thick shell with mammillated coat, single cell inside. <b>Infertile</b>: <b>elongated</b> ~85–95 µm, <b>thinner shell</b>, irregular mammillations, filled with <b>refractile granules</b>",
+   "kw": [
+    "elongat",
+    "granul",
+    "thinner",
+    "longer"
+   ],
+   "ex": "ออกสอบเป็นภาพไข่ infertile ปี 2024 ไข่ infertile มาจากตัวเมียที่ไม่ได้ผสมพันธุ์ (เช่นติดพยาธิตัวเมียตัวเดียว)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the egg of Trichuris trichiura from that of Capillaria philippinensis?",
+   "a": "<i>Trichuris</i>: barrel-shaped with <b>protruding</b> bipolar plugs and a smooth shell. <i>Capillaria philippinensis</i>: peanut-shaped with <b>flattened, non-protruding</b> plugs and a <b>striated/pitted</b> shell",
+   "kw": [
+    "protrud",
+    "flat",
+    "striat",
+    "pitted",
+    "peanut"
+   ],
+   "ex": "ทั้งสองมี plug สองข้างเหมือนกัน จุดแยกคือ plug ยื่น (Trichuris) หรือแบน (Capillaria) และลายบนเปลือก",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish adult Necator americanus from Ancylostoma duodenale?",
+   "a": "<b>Buccal capsule</b>: <i>Necator</i> has <b>cutting plates</b>; <i>A. duodenale</i> has <b>two pairs of teeth</b>. <i>Necator</i> is smaller with a hooked anterior end; their eggs cannot be distinguished",
+   "kw": [
+    "cutting plate",
+    "teeth",
+    "tooth",
+    "buccal"
+   ],
+   "ex": "A. duodenale ใหญ่กว่า ดูดเลือดมากกว่าต่อตัว และติดทางปาก/น้ำนมได้ ส่วน Necator ติดทางผิวหนังเท่านั้น",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the rhabditiform larva of Strongyloides stercoralis from that of hookworm?",
+   "a": "<i>Strongyloides</i>: <b>short buccal canal</b> and a <b>prominent genital primordium</b>. Hookworm: <b>long buccal canal</b> and a small, inconspicuous genital primordium",
+   "kw": [
+    "buccal",
+    "genital primordium"
+   ],
+   "ex": "สำคัญเพราะในอุจจาระของ Strongyloides จะเห็นเป็นตัวอ่อน ส่วนพยาธิปากขอเห็นเป็นไข่ แต่ถ้าอุจจาระตั้งทิ้งไว้นานไข่พยาธิปากขอจะฟักเป็นตัวอ่อนได้ ทำให้สับสน",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the microfilaria of Wuchereria bancrofti from that of Brugia malayi?",
+   "a": "Both are sheathed. <i>W. bancrofti</i>: smooth graceful curves, discrete nuclei, <b>no nuclei in the tail tip</b>, sheath unstained by Giemsa. <i>B. malayi</i>: kinky with secondary curves, crowded nuclei, <b>two separate terminal (subterminal) nuclei</b>, sheath stains <b>pink</b> with Giemsa",
+   "kw": [
+    "terminal nuclei",
+    "tail",
+    "nuclei",
+    "kink"
+   ],
+   "ex": "ดูแผนภาพหางไมโครฟิลาเรียในหน้าสรุปบท Nematode ประกอบ Loa loa มี nuclei ต่อเนื่องถึงปลายหาง ส่วน Onchocerca ไม่มี sheath",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish the eggs of Anopheles, Culex, Aedes and Mansonia?",
+   "a": "<i>Anopheles</i>: laid <b>singly</b>, boat-shaped with <b>lateral floats</b>. <i>Culex</i>: laid together as a floating <b>raft</b>. <i>Aedes</i>: laid <b>singly without floats</b>, just above the waterline, <b>resistant to drying</b>. <i>Mansonia</i>: laid in <b>clusters on the underside of floating plant leaves</b>",
+   "kw": [
+    "float",
+    "raft",
+    "single"
+   ],
+   "ex": "ไข่ยุง Culex (raft) ออกเป็นภาพแล้วทั้งปี 2022 และ 2025 ลูกน้ำ Mansonia เกาะรากพืชก็ออกแล้วปี 2025",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish a hard tick from a soft tick?",
+   "a": "<b>Hard tick (Ixodidae)</b>: dorsal <b>scutum</b>, mouthparts (capitulum) <b>visible from above</b>, feeds for days. <b>Soft tick (Argasidae)</b>: leathery body <b>without a scutum</b>, mouthparts <b>ventral</b> (not visible from above), feeds for minutes to hours",
+   "kw": [
+    "scutum",
+    "capitulum",
+    "mouthpart",
+    "ventral"
+   ],
+   "ex": "เห็บแข็ง Ixodes เป็นพาหะของ Babesia และ Lyme (ออกแล้ว) เห็บอ่อน Ornithodoros เป็นพาหะ relapsing fever",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish Phthirus pubis from Pediculus humanus, and the head louse from the body louse?",
+   "a": "<i>Phthirus pubis</i> (crab louse): <b>short, broad, crab-like</b> body with large claws on the 2nd and 3rd legs. Head and body lice look almost the same; they differ by <b>habitat</b>: head lice glue eggs to <b>hair</b>, body lice live and lay eggs in <b>clothing seams</b>. Only the body louse is an important disease vector",
+   "kw": [
+    "crab",
+    "claw",
+    "seam",
+    "clothing",
+    "habitat"
+   ],
+   "ex": "เหาเสื้อผ้า (P. h. corporis) เป็นพาหะของ epidemic typhus, trench fever, relapsing fever ส่วนเหาหัวไม่ได้เป็นพาหะสำคัญ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extended · แยกคู่สับสน",
+   "q": "How do you distinguish Sarcoptes scabiei from Demodex folliculorum?",
+   "a": "<i>Sarcoptes</i>: <b>round</b>, short stubby legs, burrows in the stratum corneum (scabies). <i>Demodex</i>: <b>elongated, cigar/worm-like</b> with four pairs of short legs at the front, lives in <b>hair follicles and sebaceous glands</b>",
+   "kw": [
+    "round",
+    "elongat",
+    "cigar",
+    "follicle",
+    "burrow"
+   ],
+   "ex": "Sarcoptes ออกเป็นภาพปี 2024 Demodex พบได้ปกติบนใบหน้าคน ก่อโรคเมื่อจำนวนมาก (demodicosis, rosacea-like)",
+   "img": null,
+   "pts": null,
+   "note": null
   }
  ],
  "notes": {
