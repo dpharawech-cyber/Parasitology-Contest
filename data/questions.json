@@ -11,7 +11,7 @@
    "paratenic",
    "transport host"
   ],
-  "ex": "Paratenic host คือโฮสต์ที่ระยะของปรสิตเข้าไปแล้ว<b>มีชีวิตรอดได้แต่ไม่เจริญต่อ</b> ทำหน้าที่เป็นตัวกลางส่งต่อไปยังโฮสต์ถัดไป เช่น กุ้ง/หมูป่าที่มี plerocercoid ของ Spirometra หรือหอย/กบที่มีตัวอ่อน Gnathostoma<br>ต่างจาก <i>intermediate host</i> ที่ปรสิตมีการเจริญหรือเปลี่ยนระยะ และ <i>definitive host</i> ที่ปรสิตโตเต็มวัยหรือสืบพันธุ์แบบอาศัยเพศ",
+  "ex": "Paratenic host คือโฮสต์ที่ระยะของปรสิตเข้าไปแล้ว<b>มีชีวิตรอดได้แต่ไม่เจริญต่อ</b> ทำหน้าที่เป็นตัวกลางส่งต่อไปยังโฮสต์ถัดไป ตัวอย่างที่ถูกต้อง: กุ้งน้ำจืด/ปู/กบ/planarian ที่มี L3 ของ <i>Angiostrongylus cantonensis</i> (หอยทาก/ทากเป็น intermediate host), ไก่/เป็ด/งูที่มี advanced L3 ของ <i>Gnathostoma spinigerum</i> (copepod = first IH, ปลา/กบ = second IH) และงู/หมูป่าที่มี plerocercoid (sparganum) ของ <i>Spirometra</i><br>ต่างจาก <i>intermediate host</i> ที่ปรสิตมีการเจริญหรือเปลี่ยนระยะ และ <i>definitive host</i> ที่ปรสิตโตเต็มวัยหรือสืบพันธุ์แบบอาศัยเพศ",
   "img": null,
   "pts": null,
   "note": null
@@ -27,7 +27,7 @@
   "kw": [
    "schistosom"
   ],
-  "ex": "Adult schistosome ในหลอดเลือดดูดซับโมเลกุลของโฮสต์มาเคลือบ tegument เช่น <b>blood group antigens (A, B, Lewis), MHC class I/II, IgG, complement regulators</b> ทำให้ระบบภูมิคุ้มกันมองไม่เห็นว่าเป็นสิ่งแปลกปลอม เรียกว่า <b>molecular mimicry / antigen masking</b> จึงอยู่ในหลอดเลือดได้นานหลายปี",
+  "ex": "Adult schistosome ในหลอดเลือดดูดซับโมเลกุลของโฮสต์มาเคลือบ tegument เช่น <b>blood group antigens (A, B, Lewis), MHC class I/II, IgG, complement regulators</b> ทำให้ระบบภูมิคุ้มกันมองไม่เห็นว่าเป็นสิ่งแปลกปลอม เรียกว่า <b>antigen masking</b> (antigenic disguise / host antigen acquisition) จึงอยู่ในหลอดเลือดได้นานหลายปี ส่วน <i>molecular mimicry</i> หมายถึงปรสิตสร้างโมเลกุลที่คล้ายของโฮสต์ขึ้นเอง ซึ่งเป็นคนละกลไกกัน",
   "img": null,
   "pts": null,
   "note": null
@@ -41,7 +41,9 @@
   "q": "Name a parasite species that can suppress the host's immune system by blocking antigen presentation via secretion of cysteine protease inhibitors.",
   "a": "<i>Brugia malayi</i> (secretes cystatin Bm-CPI-2)",
   "kw": [
-   "brugia"
+   "brugia",
+   "onchocerca",
+   "nippostrongylus"
   ],
   "ex": "Filarial nematode อย่าง <i>Brugia malayi</i> หลั่ง <b>cystatin (Bm-CPI-2)</b> ซึ่งเป็น cysteine protease inhibitor ไปยับยั้ง asparaginyl endopeptidase และ cathepsin ใน APC ทำให้ <b>antigen processing และการนำเสนอผ่าน MHC class II บกพร่อง</b> ส่งผลให้ T-cell response ลดลง (ตัวอย่างอื่น: <i>Onchocerca volvulus</i> onchocystatin ก็มีกลไกคล้ายกัน)",
   "img": null,
@@ -90,14 +92,16 @@
   ],
   "src": "R1 Level 1 · Q27",
   "q": "On what basis protozoans are classified into amoeba, microsporidia and apicomplexa?",
-  "a": "Based on the <b>organelle of locomotion</b> (mode of motility)",
+  "a": "Based on the <b>organelle of locomotion</b> (mode of motility): amoebae = pseudopodia; flagellates = flagella; ciliates = cilia; Apicomplexa and Microsporidia = no locomotory organelle",
   "kw": [
    "locomotion",
    "motil",
    "movement",
-   "pseudopod"
+   "pseudopod",
+   "locomot",
+   "organelle"
   ],
-  "ex": "Protozoa แบ่งกลุ่มตาม<b>อวัยวะที่ใช้เคลื่อนที่</b>: amoeba ใช้ <b>pseudopodia</b>, flagellates ใช้ <b>flagella</b>, ciliates ใช้ <b>cilia</b>, ส่วน apicomplexa (sporozoa) และ microsporidia <b>ไม่มีอวัยวะเคลื่อนที่ชัดเจน</b> (apicomplexa เคลื่อนแบบ gliding motility อาศัย apical complex)",
+  "ex": "Protozoa แบ่งกลุ่มตาม<b>อวัยวะที่ใช้เคลื่อนที่</b>: amoeba ใช้ <b>pseudopodia</b>, flagellates ใช้ <b>flagella</b>, ciliates ใช้ <b>cilia</b>, ส่วน apicomplexa (sporozoa) และ microsporidia <b>ไม่มีอวัยวะเคลื่อนที่ชัดเจน</b> (apicomplexa เคลื่อนแบบ gliding motility โดยใช้ actin–myosin motor ใต้เยื่อหุ้มเซลล์ที่เรียกว่า glideosome ส่วน apical complex เป็นอวัยวะที่ใช้หลั่งสารเพื่อบุกรุกเซลล์ ไม่ใช่อวัยวะเคลื่อนที่)",
   "img": null,
   "pts": null,
   "note": null
@@ -166,7 +170,12 @@
    "fulminant",
    "before",
    "death",
-   "die"
+   "die",
+   "quick",
+   "fast",
+   "acute",
+   "fatal",
+   "seroconver"
   ],
   "ex": "PAM ดำเนินโรคเร็วมาก ผู้ป่วยส่วนใหญ่เสียชีวิตภายใน 5–12 วันหลังมีอาการ ร่างกายยัง<b>สร้าง antibody ไม่ทัน</b>ให้ตรวจพบได้ นอกจากนี้ antibody ต่อ free-living amoeba ยังพบได้ในคนทั่วไปที่เคยสัมผัส (seropositive background) ทำให้แปลผลไม่ได้ ดังนั้นต้องยืนยันด้วยการตรวจหาเชื้อโดยตรงใน CSF/เนื้อสมอง",
   "img": null,
@@ -276,7 +285,7 @@
   ],
   "src": "R2 Level 1 · Q24",
   "q": "Name one intestinal protozoan parasitic infection that is commonly transmitted by homosexual practice.",
-  "a": "<i>Giardia duodenalis</i> or <i>Entamoeba histolytica</i> (amoebiasis/giardiasis)",
+  "a": "<i>Giardia duodenalis</i> or <i>Entamoeba histolytica</i> (giardiasis/amoebiasis); <i>Cryptosporidium</i> also accepted",
   "kw": [
    "giardia",
    "histolytica",
@@ -284,7 +293,7 @@
    "giardiasis",
    "cryptospor"
   ],
-  "ex": "การมีเพศสัมพันธ์แบบ oral–anal (MSM) เป็นช่องทาง fecal–oral โดยตรง จึงแพร่ cyst ของ <b><i>E. histolytica</i>, <i>Giardia</i></b> (และ <i>Cryptosporidium</i>) ได้ง่าย เคยเรียกกลุ่มอาการนี้ว่า \"gay bowel syndrome\"",
+  "ex": "การมีเพศสัมพันธ์แบบ oral–anal หรือ anal–digital เป็นเส้นทาง fecal–oral โดยตรง จึงแพร่ cyst/oocyst ของ <b><i>E. histolytica</i>, <i>Giardia</i></b> และ <i>Cryptosporidium</i> ได้ง่าย โดยเฉพาะในกลุ่ม MSM",
   "img": null,
   "pts": null,
   "note": null
@@ -703,11 +712,13 @@
   ],
   "src": "R2 Level 1 · Q28",
   "q": "State the blood abnormality that provides natural resistance to Plasmodium knowlesi.",
-  "a": "<b>Duffy-negative</b> red blood cells (Fy(a−b−))",
+  "a": "<b>Duffy-negative</b> red blood cells [Fy(a−b−)] — <i>P. knowlesi</i> invades via PkDBPα–DARC; <b>Southeast Asian ovalocytosis</b> also accepted",
   "kw": [
-   "duffy"
+   "duffy",
+   "ovalocyt",
+   "band 3"
   ],
-  "ex": "<i>P. knowlesi</i> (และ <i>P. vivax</i>) ใช้ <b>Duffy antigen receptor for chemokines (DARC)</b> ในการบุกรุก RBC ผ่าน PkDBPα คนที่ RBC เป็น Duffy-negative (พบมากในแอฟริกาตะวันตก) จึงดื้อต่อการติดเชื้อ (Southeast Asian ovalocytosis ก็มีรายงานว่าลดการบุกรุก)",
+  "ex": "<i>P. knowlesi</i> (และ <i>P. vivax</i>) ใช้ <b>Duffy antigen receptor for chemokines (DARC)</b> ในการบุกรุก RBC ผ่าน PkDBPα คนที่ RBC เป็น Duffy-negative (พบมากในแอฟริกาตะวันตก) จึงต้านการติดเชื้อ Southeast Asian (Melanesian) ovalocytosis ซึ่งเกิดจาก band 3 deletion ก็ลดการบุกรุกของ P. knowlesi และ P. falciparum ได้ ทั้งนี้มีงานวิจัยในหลอดทดลองพบว่า P. knowlesi ปรับตัวให้บุกรุก RBC ที่เป็น Duffy-negative ได้ จึงไม่ได้ป้องกันสมบูรณ์",
   "img": null,
   "pts": null,
   "note": null
@@ -1045,7 +1056,7 @@
    "toxoplasma+feli",
    "gondii+feli"
   ],
-  "ex": "ภาพเป็น <b>tissue cyst ที่บรรจุ bradyzoite</b> ในเนื้อสมอง ผู้ป่วย HIV ที่ CD4 <100 เกิด <b>toxoplasmic encephalitis</b> จากการ reactivate ของ cyst (CT/MRI เป็น ring-enhancing lesions หลายตำแหน่ง) <b>แมวและสัตว์ตระกูลแมว</b>เป็น definitive host เพราะเป็นที่เกิด sexual cycle ในลำไส้และขับ oocyst ออกทางอุจจาระ",
+  "ex": "ภาพเป็น <b>tissue cyst ที่บรรจุ bradyzoite</b> ในเนื้อสมอง ผู้ป่วย HIV ที่ CD4 &lt;100 cells/µL (เสี่ยงสูงสุดเมื่อ &lt;50) เกิด <b>toxoplasmic encephalitis</b> จากการ reactivate ของ tissue cyst (CT/MRI เป็น ring-enhancing lesions หลายตำแหน่ง) <b>แมวและสัตว์ตระกูลแมว</b>เป็น definitive host เพราะเป็นที่เกิด sexual cycle ในลำไส้และขับ oocyst ออกทางอุจจาระ",
   "img": "33",
   "pts": [
    {
@@ -1170,7 +1181,9 @@
    "edema",
    "swell",
    "seizure",
-   "intracranial"
+   "intracranial",
+   "immun",
+   "hypersensitiv"
   ],
   "ex": "เมื่อ albendazole ฆ่า cysticercus ในสมอง แอนติเจนจะรั่วออกมากระตุ้น<b>การอักเสบรอบ cyst</b> ทำให้สมองบวม ความดันในกะโหลกสูง ชัก หรือแย่ลงชั่วคราว จึงให้ corticosteroid (dexamethasone) ลดการอักเสบ นอกจากนี้ dexamethasone ยังเพิ่มระดับ albendazole sulfoxide ในเลือดด้วย",
   "img": null,
@@ -1311,12 +1324,12 @@
   ],
   "src": "R1 Level 1 · Q9",
   "q": "Name the parasite species that causes polycystic neotropical echinococcosis.",
-  "a": "<i>Echinococcus vogeli</i> (also <i>E. oligarthra</i>)",
+  "a": "<i>Echinococcus vogeli</i> (<i>E. oligarthra</i> causes the rare <b>unicystic</b> form; older texts grouped both as polycystic)",
   "kw": [
    "vogeli",
    "oligarth"
   ],
-  "ex": "Polycystic echinococcosis พบในอเมริกากลาง/ใต้ (neotropical) เกิดจาก <i>E. vogeli</i> (โฮสต์จำเพาะคือ bush dog, โฮสต์กึ่งกลางคือ paca) และพบน้อยจาก <i>E. oligarthra</i> (แมวป่า) cyst หลายช่องมักอยู่ที่ตับ",
+  "ex": "Neotropical echinococcosis (อเมริกากลาง/ใต้) แบ่งเป็น <b>polycystic</b> จาก <i>E. vogeli</i> (โฮสต์จำเพาะ bush dog, โฮสต์กึ่งกลาง paca/agouti; cyst หลายช่องมักอยู่ที่ตับ) และ <b>unicystic</b> จาก <i>E. oligarthra</i> (แมวป่า) ซึ่งพบในคนน้อยมาก",
   "img": null,
   "pts": null,
   "note": null
@@ -1699,7 +1712,7 @@
    "rat",
    "rodent"
   ],
-  "ex": "<i>A. costaricensis</i> ก่อ <b>abdominal angiostrongyliasis</b> ในอเมริกากลาง/ใต้ ตัวเต็มวัยอยู่ใน mesenteric artery ของ<b>หนู cotton rat</b> หอยทากเป็นโฮสต์กึ่งกลาง คนติดจากกินเมือกหอย/ผักที่ปนเปื้อน เทียบกับ <i>A. cantonensis</i> (หนูบ้าน/หนูท่อ <i>Rattus</i>) ที่ทำให้ eosinophilic meningitis",
+  "ex": "<i>A. costaricensis</i> ก่อ <b>abdominal angiostrongyliasis</b> ในอเมริกากลาง/ใต้ ตัวเต็มวัยอยู่ใน mesenteric artery ของ<b>หนู cotton rat</b> โฮสต์กึ่งกลางหลักคือ<b>ทาก (slug ไม่มีเปลือก)</b> วงศ์ Veronicellidae เช่น <i>Sarasinula plebeia</i> คนติดจากการกินทากหรือผักสดที่ปนเปื้อนเมือกทาก เทียบกับ <i>A. cantonensis</i> (หนูบ้าน/หนูท่อ <i>Rattus</i>) ที่ทำให้ eosinophilic meningitis",
   "img": null,
   "pts": null,
   "note": null
@@ -2063,12 +2076,12 @@
   ],
   "src": "R1 Level 1 · Q30",
   "q": "Name the drug of choice for treating lymphatic filariasis.",
-  "a": "<b>Diethylcarbamazine (DEC)</b>; MDA uses DEC + albendazole (± ivermectin, \"IDA\")",
+  "a": "<b>Diethylcarbamazine (DEC)</b> for individual treatment. WHO MDA: IDA or DA where onchocerciasis is absent; <b>IA (ivermectin + albendazole)</b> where onchocerciasis is co-endemic; <b>albendazole alone twice yearly</b> where loiasis is co-endemic",
   "kw": [
    "diethylcarbamazine",
    "dec"
   ],
-  "ex": "DEC ฆ่าทั้ง microfilaria และตัวเต็มวัยบางส่วน ใช้รักษารายบุคคล (6 mg/kg/วัน × 12 วัน) ใน mass drug administration ใช้ <b>IDA (ivermectin + DEC + albendazole)</b> หรือ DA ห้ามใช้ DEC ในพื้นที่ที่มี onchocerciasis หรือ loiasis",
+  "ex": "DEC ฆ่าทั้ง microfilaria และตัวเต็มวัยบางส่วน ใช้รักษารายบุคคล (6 mg/kg/วัน × 12 วัน) ส่วน MDA ตาม WHO: พื้นที่ไม่มี onchocerciasis ใช้ <b>IDA</b> (ivermectin + DEC + albendazole) หรือ <b>DA</b>; พื้นที่มี onchocerciasis ห้ามใช้ DEC ให้ใช้ <b>IA</b> (ivermectin + albendazole); พื้นที่มี loiasis ร่วมด้วยใช้ <b>albendazole เดี่ยวปีละ 2 ครั้ง</b>",
   "img": null,
   "pts": null,
   "note": null
@@ -2358,9 +2371,11 @@
    "dirus",
    "balabacensis",
    "latens",
-   "cracens"
+   "cracens",
+   "hackeri",
+   "introlatus"
   ],
-  "ex": "ยุงกลุ่ม <b>Leucosphyrus</b> อาศัยในป่า กัดทั้งลิงและคน จึงนำ <i>P. knowlesi</i>, <i>P. cynomolgi</i> และ simian malaria อื่นสู่คน ในไทยพาหะหลักของ <i>P. knowlesi</i> คือ <i>An. dirus</i>",
+  "ex": "ยุงกลุ่ม <b>Leucosphyrus</b> อาศัยในป่า กัดทั้งลิงและคน จึงนำ <i>P. knowlesi</i>, <i>P. cynomolgi</i> และ simian malaria อื่นสู่คน พาหะ <i>P. knowlesi</i> ที่พิสูจน์แล้ว: <i>An. hackeri</i> (ชนิดแรก, สลังงอร์), <i>An. cracens</i> (มาเลเซียคาบสมุทร), <i>An. balabacensis</i> (ซาบาห์), <i>An. latens</i> (ซาราวัก), <i>An. dirus</i> (เวียดนามใต้); ในไทยพบเชื้อใน <i>An. latens</i> และ <i>An. introlatus</i> ที่นราธิวาส (2023)",
   "img": null,
   "pts": null,
   "note": null
@@ -2609,7 +2624,9 @@
   "q": "State the predominant morphological form of Blastocystis species in in vitro cultivation.",
   "a": "<b>Vacuolar form</b>",
   "kw": [
-   "vacuolar"
+   "vacuolar",
+   "vacuol",
+   "central body"
   ],
   "ex": "<i>Blastocystis</i> มีหลายรูปแบบ (vacuolar, granular, amoeboid, cyst) แต่รูปแบบที่พบมากที่สุดเมื่อเพาะเลี้ยงในห้องปฏิบัติการ (in vitro) คือ <b>vacuolar form</b> ซึ่งมี central vacuole ขนาดใหญ่",
   "img": null,
@@ -2655,11 +2672,12 @@
   ],
   "src": "GF-L1 Q2",
   "q": "Name the genus of free-living amoeba that primarily causes granulomatous amoebic encephalitis in healthy individuals.",
-  "a": "<i>Acanthamoeba</i> (also <i>Balamuthia mandrillaris</i>, more typically in immunocompromised)",
+  "a": "<i>Balamuthia</i> (<i>B. mandrillaris</i>) — causes GAE in both immunocompetent (including children) and immunocompromised hosts; <i>Acanthamoeba</i> GAE is almost exclusively in immunocompromised patients",
   "kw": [
-   "acanthamoeba"
+   "balamuthia",
+   "mandrillaris"
   ],
-  "ex": "GAE ส่วนใหญ่เกิดจาก <i>Acanthamoeba</i> หรือ <i>Balamuthia mandrillaris</i> ดำเนินโรคช้ากว่า PAM (<i>Naegleria</i>) เป็นสัปดาห์ถึงเดือน เข้าสู่ร่างกายผ่านผิวหนัง/ระบบหายใจ แล้วแพร่กระจายทางเลือดไปสมอง",
+  "ex": "<i>Balamuthia mandrillaris</i> ก่อ GAE ได้ทั้งในคนภูมิคุ้มกันปกติ (รวมถึงเด็ก) และคนภูมิคุ้มกันต่ำ ส่วน <i>Acanthamoeba</i> ก่อ GAE เกือบทั้งหมดในผู้ภูมิคุ้มกันบกพร่อง (ในคนปกติ Acanthamoeba ทำให้เกิด keratitis) ทั้งคู่เข้าทางผิวหนังหรือทางเดินหายใจส่วนล่างแล้วแพร่ทางเลือดไปสมอง ดำเนินโรคช้ากว่า PAM (<i>Naegleria</i>) เป็นสัปดาห์ถึงเดือน",
   "img": null,
   "pts": null,
   "note": null
@@ -2677,7 +2695,9 @@
    "respiratory",
    "lung",
    "cutaneous",
-   "wound"
+   "wound",
+   "pulmonary",
+   "inhal"
   ],
   "ex": "Acanthamoeba สามารถเข้าสู่ร่างกายทาง<b>ผิวหนังที่มีแผล</b>หรือ<b>ทางเดินหายใจส่วนล่าง</b> แล้วแพร่กระจายทางกระแสเลือดไปสมองทำให้เกิด GAE ต่างจาก <i>Naegleria fowleri</i> ที่เข้าทางจมูกผ่าน olfactory nerve เท่านั้น",
   "img": null,
@@ -2700,7 +2720,7 @@
    "death",
    "die"
   ],
-  "ex": "เหมือนกับเหตุผลที่ antibody ไม่มีประโยชน์ในการวินิจฉัย PAM แบบเฉียบพลัน — โรคดำเนินเร็วมาก (มักเสียชีวิตใน 5-12 วัน) ร่างกายยังสร้าง antibody ไม่ทัน ต้องอาศัยการตรวจเชื้อโดยตรงจาก CSF",
+  "ex": "PAM ดำเนินโรคเร็วมาก (เสียชีวิต 1–18 วันหลังเริ่มมีอาการ ส่วนใหญ่ราว 5 วัน) ร่างกายสร้าง antibody ไม่ทัน และคนทั่วไปอาจมี antibody จากการสัมผัสเชื้อในสิ่งแวดล้อมอยู่แล้ว จึงต้องตรวจหาเชื้อโดยตรงใน CSF (wet mount, PCR)",
   "img": null,
   "pts": null,
   "note": null
@@ -2737,7 +2757,9 @@
    "bone marrow",
    "spleen",
    "rk39",
-   "k39"
+   "k39",
+   "splen",
+   "k-39"
   ],
   "ex": "การวินิจฉัย visceral leishmaniasis (kala-azar) ที่แม่นยำที่สุดคือการเจาะ <b>bone marrow หรือ spleen aspirate</b> ย้อมหา amastigote ส่วนการตรวจทางซีรั่มที่ใช้กันแพร่หลายคือ <b>rK39 rapid diagnostic test</b> ซึ่งมีความไวสูงและใช้ง่ายในภาคสนาม",
   "img": null,
@@ -2771,7 +2793,9 @@
   "kw": [
    "brain",
    "lung",
-   "pulmonary"
+   "pulmonary",
+   "cerebr",
+   "splen"
   ],
   "ex": "นอกจาก liver abscess ซึ่งพบบ่อยที่สุด <i>E. histolytica</i> อาจแพร่กระจายทางเลือดไปทำให้เกิด <b>pulmonary abscess</b> (จาก liver abscess ทะลุผ่าน diaphragm หรือทางเลือด) และ <b>brain abscess</b> ซึ่งพบน้อยแต่รุนแรงถึงชีวิต",
   "img": null,
@@ -2807,7 +2831,10 @@
    "sexual",
    "oral-anal",
    "oral anal",
-   "msm"
+   "msm",
+   "anal-oral",
+   "oro-anal",
+   "oroanal"
   ],
   "ex": "การสัมผัสทางเพศแบบ oral-anal เป็นอีกช่องทางที่ทำให้ cyst ของ <i>E. histolytica</i> แพร่กระจายโดยตรง เคยเรียกกลุ่มอาการนี้ในอดีตว่า \"gay bowel syndrome\"",
   "img": null,
@@ -2862,7 +2889,10 @@
    "resistance",
    "sequester",
    "subtherapeutic",
-   "dose"
+   "dose",
+   "resistan",
+   "inadequate",
+   "residual"
   ],
   "ex": "Recrudescence คือการกลับเป็นซ้ำจากเชื้อใน<b>กระแสเลือด</b>ที่กำจัดไม่หมด (ต่างจาก relapse ใน <i>P. vivax/ovale</i> ที่มาจาก hypnozoite ในตับ ซึ่ง falciparum ไม่มีระยะนี้) สาเหตุ ได้แก่ เชื้อดื้อยา ได้รับยาไม่ครบ/ไม่เพียงพอ หรือเชื้อบางส่วน sequester อยู่ในหลอดเลือดฝอยลึกจึงไม่ถูกทำลายหมด",
   "img": null,
@@ -2911,14 +2941,18 @@
   ],
   "src": "GF-L2 Q2",
   "q": "This was recovered in a spleen aspirate specimen from a 30-year-old man who presented with abdominal discomfort. Name one parasite species that can cause this infection and state how the patient acquired this infection.",
-  "a": "<i>Leishmania donovani</i> (visceral leishmaniasis); acquired via the <b>bite of an infected female sandfly</b> (<i>Phlebotomus</i> in the Old World, <i>Lutzomyia</i> in the New World)",
+  "a": "<i>Leishmania donovani</i> or <i>L. infantum</i> (syn. <i>L. chagasi</i>) — visceral leishmaniasis; acquired via the <b>bite of an infected female phlebotomine sand fly</b> (<i>Phlebotomus</i> in the Old World, <i>Lutzomyia</i> in the New World)",
   "kw": [
    "donovani",
    "sandfly",
    "phlebotomus",
-   "lutzomyia"
+   "lutzomyia",
+   "infantum",
+   "chagasi",
+   "sand fly",
+   "sand-fly"
   ],
-  "ex": "ภาพแสดง amastigote จำนวนมากในไซโตพลาสซึมของ macrophage จาก spleen aspirate ซึ่งเป็นลักษณะเฉพาะของ visceral leishmaniasis (kala-azar) เกิดจาก <i>Leishmania donovani</i> complex ติดต่อผ่าน<b>การถูกกัดของริ้นทราย (sandfly)</b> เพศเมียที่ติดเชื้อ",
+  "ex": "ภาพแสดง amastigote จำนวนมากในไซโตพลาสซึมของ macrophage จาก spleen aspirate ซึ่งเป็นลักษณะของ visceral leishmaniasis (kala-azar) เกิดจาก <i>L. donovani</i> complex: <i>L. donovani</i> (อนุทวีปอินเดีย, แอฟริกาตะวันออก) หรือ <i>L. infantum/L. chagasi</i> (เมดิเตอร์เรเนียน, ตะวันออกกลาง, อเมริกาใต้) ติดต่อผ่าน<b>การถูกกัดของริ้นฝอยทราย (sand fly)</b> เพศเมียที่ติดเชื้อ",
   "img": "y25_spleenaspirate",
   "pts": null,
   "note": null
@@ -2930,15 +2964,18 @@
   ],
   "src": "PS L3 Q4",
   "q": "Explain why Toxoplasma IgG avidity test is useful in the first and second trimesters of pregnancy.",
-  "a": "A <b>high-avidity</b> result reliably excludes infection acquired in the <b>preceding ~3–4 months</b>; tested early in pregnancy, this window can confidently rule out an infection contracted <i>during</i> the current pregnancy, distinguishing it from a pre-conception infection that poses little risk to the fetus",
+  "a": "High IgG avidity means infection was acquired <b>at least ~3–4 months earlier</b>. If tested in the 1st trimester or early 2nd (≤ about 12–16 weeks), this places the infection <b>before conception</b>, excluding infection during pregnancy (e.g. when IgM is positive) and avoiding unnecessary treatment or amniocentesis. Low avidity does not prove recent infection.",
   "kw": [
    "high avidity",
    "exclude",
    "4 month",
    "preceding",
-   "before conception"
+   "before conception",
+   "rule out",
+   "3 month",
+   "past infection"
   ],
-  "ex": "ตรงข้ามกับการตรวจในไตรมาส 3 (ซึ่งใช้แยกไม่ได้เพราะช่วง 4 เดือนก่อนหน้ายังอยู่ในครรภ์) การตรวจ IgG avidity ใน<b>ไตรมาสแรกหรือสอง</b> หาก high avidity จะช่วยยืนยันได้ว่าติดเชื้อมาก่อนตั้งครรภ์ (>3-4 เดือนก่อนหน้า) จึงมีความเสี่ยงต่ำที่จะถ่ายทอดสู่ทารกในครรภ์ปัจจุบัน",
+  "ex": "High avidity ตัดการติดเชื้อภายใน ~4 เดือนก่อนตรวจ จึงยืนยันว่าติดก่อนตั้งครรภ์ได้เมื่อตรวจในช่วง ≤12–16 สัปดาห์แรก (ช่วงไตรมาส 1 ถึงต้นไตรมาส 2) หากตรวจช้ากว่านั้น ช่วง 4 เดือนก่อนหน้าก็ทับกับช่วงตั้งครรภ์แล้ว ส่วน low avidity อาจคงอยู่นานหลายเดือน จึงใช้ยืนยันการติดเชื้อใหม่ไม่ได้",
   "img": null,
   "pts": null,
   "note": null
@@ -2970,7 +3007,8 @@
   "a": "<b>Cysticercus</b> larva of <i>Taenia solium</i> (neurocysticercosis)",
   "kw": [
    "cysticercus",
-   "neurocysticercosis"
+   "neurocysticercosis",
+   "cysticerci"
   ],
   "ex": "Neurocysticercosis (จาก cysticercus ของ <i>T. solium</i> ในสมอง) เป็นสาเหตุที่พบบ่อยที่สุดของโรคลมชักที่เกิดขึ้นภายหลัง (acquired epilepsy) ในพื้นที่ endemic ทั่วโลก",
   "img": null,
@@ -3003,7 +3041,10 @@
   "a": "<i>Diphyllobothrium latum</i> gravid proglottid has a characteristic <b>central, rosette-shaped uterus</b>",
   "kw": [
    "rosette",
-   "central uterus"
+   "central uterus",
+   "wider than long",
+   "broader than long",
+   "coiled"
   ],
   "ex": "<i>D. latum</i> เป็นพยาธิตืดที่ยาวที่สุดในมนุษย์ (สูงสุด ~10 เมตร) proglottid ที่แก่ (gravid) มีลักษณะ<b>มดลูกอยู่ตรงกลางเป็นรูปดอกกุหลาบ (rosette-shaped uterus)</b> ต่างจาก Taenia ที่มดลูกแตกแขนงด้านข้าง",
   "img": null,
@@ -3017,14 +3058,15 @@
   ],
   "src": "GF-L1 Q14 / GF-L1 Q12",
   "q": "Name the species of the largest intestinal fluke infecting humans, and name one New World parasite species that causes echinococcosis.",
-  "a": "Largest intestinal fluke: <i>Fasciolopsis buski</i> (this is a trematode, not cestode — but examined alongside cestode topics); New World echinococcosis: <i>Echinococcus vogeli</i> (or <i>E. oligarthrus</i>)",
+  "a": "Largest intestinal fluke: <i>Fasciolopsis buski</i>; New World (neotropical) echinococcosis: <i>Echinococcus vogeli</i> (polycystic) or <i>E. oligarthra</i> (unicystic)",
   "kw": [
    "fasciolopsis",
    "buski",
    "vogeli",
-   "oligarthrus"
+   "oligarthrus",
+   "oligarth"
   ],
-  "ex": "<i>Fasciolopsis buski</i> เป็นพยาธิใบไม้ลำไส้ที่ใหญ่ที่สุดในคน (2-7.5 ซม.) ส่วน echinococcosis ในซีกโลกตะวันตก (New World) ที่ทำให้เกิด polycystic echinococcosis เกิดจาก <i>Echinococcus vogeli</i> (บางครั้ง <i>E. oligarthrus</i>) ต่างจาก <i>E. granulosus</i> (cystic) และ <i>E. multilocularis</i> (alveolar) ที่พบในซีกโลกเก่า",
+  "ex": "<i>Fasciolopsis buski</i> เป็นพยาธิใบไม้ลำไส้ที่ใหญ่ที่สุดในคน (2–7.5 ซม.) ส่วน Echinococcus ที่พบเฉพาะทวีปอเมริกา (neotropical) คือ <i>E. vogeli</i> (polycystic) และ <i>E. oligarthra</i> (unicystic, พบน้อยมาก) ส่วน <i>E. granulosus</i> (cystic) พบทั่วโลกรวมทั้งอเมริกาใต้ และ <i>E. multilocularis</i> (alveolar) พบทั่วซีกโลกเหนือรวมทั้งอเมริกาเหนือ",
   "img": null,
   "pts": null,
   "note": null
@@ -3089,7 +3131,8 @@
   "q": "State the key morphological feature common to the eggs of many trematodes that facilitates larval emergence.",
   "a": "<b>Operculum</b> (a lid-like structure on the egg shell)",
   "kw": [
-   "operculum"
+   "operculum",
+   "opercul"
   ],
   "ex": "ไข่พยาธิใบไม้ส่วนใหญ่ (ยกเว้น Schistosoma) มี <b>operculum</b> เป็นฝาปิดที่เปิดออกได้เพื่อให้ miracidium ฟักออกมาเมื่อไข่ถูกปล่อยลงน้ำและอยู่ในสภาวะเหมาะสม",
   "img": null,
@@ -3103,16 +3146,16 @@
   ],
   "src": "GF-L2 Q5",
   "q": "Cercariae of this trematode egg (42 μm × 26 μm) are released in a slime ball from the first intermediate host and subsequently ingested by the second intermediate host, allowing the life cycle to continue. Name the parasite and state the common name of the second intermediate host.",
-  "a": "<i>Clonorchis sinensis</i> (or <i>Opisthorchis viverrini</i>); second intermediate host: <b>freshwater fish</b>",
+  "a": "<i>Dicrocoelium dendriticum</i> (lancet liver fluke); second intermediate host: <b>ant</b> (<i>Formica</i> spp.). First intermediate host is a land snail.",
   "kw": [
-   "clonorchis",
-   "opisthorchis",
-   "freshwater fish"
+   "dicrocoel",
+   "dendriticum",
+   "lancet"
   ],
-  "ex": "ไข่ของ <i>Clonorchis</i>/<i>Opisthorchis</i> มีขนาดเล็ก มี operculum ชัดเจน ถูกหอยน้ำจืด (first intermediate host) กินเข้าไป ฟักเป็น miracidium แล้วพัฒนาเป็น cercaria ที่ถูกปล่อยออกมาเป็น \"slime ball\" ในน้ำ ซึ่งถูก<b>ปลาน้ำจืด</b> (second intermediate host) กินเข้าไปแล้วฝังตัวเป็น metacercaria ในกล้ามเนื้อปลา คนติดเชื้อจากการกินปลาดิบ",
+  "ex": "ไข่ขนาด ~35–45 × 20–30 µm เปลือกหนา สีน้ำตาลเข้ม มีฝาและมี miracidium อยู่ภายใน = <i>Dicrocoelium dendriticum</i> (lancet liver fluke) หอยบก (1st IH) กินไข่ → cercaria ถูกปล่อยออกมาเป็นก้อนเมือก (<b>slime ball</b>) → <b>มด</b> (2nd IH) กินแล้วเกิด metacercaria → สัตว์กินหญ้า/คนติดจากการกลืนมดที่ติดเชื้อ (การพบไข่หลังกินตับสัตว์ที่ติดเชื้อเรียก spurious infection) ต่างจาก <i>Clonorchis/Opisthorchis</i> ที่ไข่เล็กกว่า (≤35 µm) และ cercaria ว่ายน้ำไชเข้าปลาเอง",
   "img": "y25_flukeegg",
   "pts": null,
-  "note": "ระบุขนาดไข่ 42x26 ไมครอนใกล้เคียงกับ Clonorchis/Opisthorchis; เป็นคำตอบที่เป็นไปได้มากที่สุดจากลักษณะวงจรชีวิตที่บรรยาย"
+  "note": null
  },
  {
   "ch": "nematode",
@@ -3125,7 +3168,11 @@
   "kw": [
    "stomach",
    "plague",
-   "yersinia"
+   "yersinia",
+   "gastric",
+   "murine",
+   "typhus",
+   "rickettsia"
   ],
   "ex": "Anisakiasis เกิดจากกิน larva ของ <i>Anisakis</i> ในปลาทะเลดิบ ทำให้เกิดอาการปวดท้องเฉียบพลันจาก larva ไชเข้าผนัง<b>กระเพาะอาหาร</b> ส่วน <i>Xenopsylla cheopis</i> (หมัดหนู) เป็นพาหะหลักของ<b>กาฬโรค (plague)</b> และ murine typhus",
   "img": null,
@@ -3156,14 +3203,21 @@
   ],
   "src": "PS L1 Q17",
   "q": "Name one parasitic infection that is linked to walking barefoot on contaminated soil.",
-  "a": "<b>Hookworm infection</b> (<i>Necator americanus</i>/<i>Ancylostoma duodenale</i>) — cutaneous larva migrans; also strongyloidiasis",
+  "a": "<b>Hookworm infection</b> (<i>Necator americanus</i>/<i>Ancylostoma duodenale</i>; \"ground itch\"), <b>strongyloidiasis</b> (<i>S. stercoralis</i>), or <b>cutaneous larva migrans</b> from zoonotic dog/cat hookworms (<i>A. braziliense</i>, <i>A. caninum</i>)",
   "kw": [
    "hookworm",
    "necator",
    "ancylostoma",
-   "cutaneous larva migrans"
+   "cutaneous larva migrans",
+   "strongyloid",
+   "stercoralis",
+   "ground itch",
+   "larva migrans",
+   "creeping",
+   "braziliense",
+   "caninum"
   ],
-  "ex": "Filariform larva (L3) ของพยาธิปากขอ (และ <i>Strongyloides</i>) ไชผ่านผิวหนังเท้าที่สัมผัสดินปนเปื้อนโดยตรง (percutaneous penetration) ทำให้เกิด ground itch หรือ cutaneous larva migrans",
+  "ex": "L3 ของพยาธิปากขอของคน (<i>Necator</i>, <i>A. duodenale</i>) และ <i>Strongyloides</i> ไชผิวหนังเท้าที่สัมผัสดินปนเปื้อน ทำให้เกิด <b>ground itch</b> ตรงที่ไช ส่วน <b>cutaneous larva migrans</b> (creeping eruption) เกิดจากพยาธิปากขอของสุนัข/แมว (<i>A. braziliense</i>, <i>A. caninum</i>) ซึ่งเจริญต่อในคนไม่ได้ จึงคืบอยู่ในชั้นหนังกำพร้า",
   "img": null,
   "pts": null,
   "note": null
@@ -3198,7 +3252,12 @@
    "curved",
    "hooked",
    "posterior",
-   "straight"
+   "straight",
+   "curl",
+   "coil",
+   "spicule",
+   "vulva",
+   "genital girdle"
   ],
   "ex": "ตัวผู้ <i>Ascaris</i> มีขนาดเล็กกว่าตัวเมีย และมี<b>ปลายหางโค้งงอเป็นตะขอ</b> (มี spicules สำหรับผสมพันธุ์) ส่วนตัวเมียมีขนาดใหญ่กว่าและปลายหางตรง",
   "img": null,
@@ -3219,7 +3278,11 @@
    "secretory",
    "th2",
    "regulatory",
-   "immunomodulat"
+   "immunomodulat",
+   "protease",
+   "cpi",
+   "cathepsin",
+   "asparaginyl"
   ],
   "ex": "พยาธิฟิลาเรียทั้งสองชนิดหลั่งโมเลกุล immunomodulatory (เช่น <b>cystatin/protease inhibitor</b>) ไปยับยั้งเอนไซม์ใน antigen-presenting cell ทำให้กระบวนการ antigen processing/presentation บกพร่อง และกระตุ้นให้เกิด immune response แบบ <b>Th2/regulatory</b> ที่ไม่ทำลายพยาธิ ทำให้อยู่ในร่างกายได้นานหลายปี (ดูตัวอย่างกลไกที่คล้ายกันของ Bm-CPI-2 ใน Brugia malayi)",
   "img": null,
@@ -3235,7 +3298,11 @@
   "q": "State the disease caused by hypersensitivity reaction to microfilariae antigens of Wuchereria bancrofti.",
   "a": "<b>Tropical pulmonary eosinophilia (TPE)</b>",
   "kw": [
-   "tropical pulmonary eosinophilia"
+   "tropical pulmonary eosinophilia",
+   "tpe",
+   "tropical pulmonary",
+   "tropical eosinophil",
+   "occult"
   ],
   "ex": "TPE เป็นปฏิกิริยา hypersensitivity ต่อ microfilaria ของ <i>W. bancrofti</i> (หรือ <i>Brugia</i>) ที่ถูกดักจับในปอด ทำให้เกิดไอ หอบหืดคล้ายหืด, eosinophilia สูงมาก (>3000/mm3), IgE สูง มักตรวจไม่พบ microfilaria ในเลือดส่วนปลาย",
   "img": null,
@@ -3252,7 +3319,11 @@
   "a": "<i>Loa loa</i> (African eye worm); transmitted by the bite of <i>Chrysops</i> (deer fly / mango fly)",
   "kw": [
    "loa loa",
-   "chrysops"
+   "chrysops",
+   "loa",
+   "deer fly",
+   "deerfly",
+   "mango fly"
   ],
   "ex": "Adult <i>Loa loa</i> เคลื่อนที่ใต้ผิวหนังและบางครั้งไชผ่าน subconjunctival tissue ของตาให้เห็นตัวพยาธิเคลื่อนไหวได้ (calabar/fugitive swelling ที่ผิวหนังก็เกิดจากพยาธินี้เช่นกัน) ติดต่อผ่านการถูกกัดของแมลงวัน <b>Chrysops</b> (deer/mango fly) ที่กัดเวลากลางวัน",
   "img": "y25_eyeworm",
@@ -3269,9 +3340,10 @@
   "a": "<b>Erythema migrans</b> (\"bull's-eye\" rash)",
   "kw": [
    "erythema migrans",
-   "bull"
+   "bull",
+   "migrans"
   ],
-  "ex": "Erythema migrans เป็นผื่นแดงขยายวงออกจากจุดที่ถูกเห็บ <i>Ixodes</i> กัด ตรงกลางมักซีดลง (bull's-eye appearance) เป็นอาการเริ่มต้นที่บ่งชี้ Lyme disease จาก <i>Borrelia burgdorferi</i>",
+  "ex": "Erythema migrans เป็นผื่นแดงขยายวงออกจากจุดที่ถูกเห็บ <i>Ixodes</i> กัด ตรงกลางมักซีดลง (bull's-eye appearance) เป็นอาการเริ่มต้นที่บ่งชี้ Lyme disease จาก <i>Borrelia burgdorferi</i> (ชื่อเดิม erythema chronicum migrans)",
   "img": null,
   "pts": null,
   "note": null
@@ -3299,12 +3371,12 @@
   ],
   "src": "GF-L1 Q11",
   "q": "Name the first bacteria strain that was isolated from Drosophila and inoculated into Aedes aegypti to control dengue.",
-  "a": "<b><i>Wolbachia</i></b> (specifically the <b>wMel</b> strain)",
+  "a": "<b><i>Wolbachia</i></b> — <b>wMel</b> strain (from <i>Drosophila melanogaster</i>; the World Mosquito Program strain). Also accept <b>wMelPop</b>: the first <i>Drosophila</i> strain transferred (2009), dropped because of its high fitness cost",
   "kw": [
    "wolbachia",
    "wmel"
   ],
-  "ex": "<i>Wolbachia</i> (wMel strain) เดิมพบตามธรรมชาติใน <i>Drosophila</i> (แมลงหวี่) ถูกนำมาฉีดเข้ายุง <i>Aedes aegypti</i> ทำให้ยุงส่งต่อไวรัสเดงกี่ได้น้อยลงและลด vector competence ผ่านกลไก cytoplasmic incompatibility",
+  "ex": "wMel มาจากแมลงหวี่ <i>D. melanogaster</i> ลดการแพร่ไวรัสเดงกีด้วย <b>pathogen blocking</b> (กระตุ้นภูมิคุ้มกันยุง แย่งไขมัน/คอเลสเตอรอลในเซลล์) ส่วน <b>cytoplasmic incompatibility</b> เป็นกลไกที่ทำให้ Wolbachia แพร่ไปทั่วประชากรยุง ไม่ใช่กลไกลด vector competence; สายพันธุ์จาก Drosophila ตัวแรกที่ใส่ใน <i>Ae. aegypti</i> คือ wMelPop (2009) ทำให้ยุงอายุสั้นแต่ fitness ต่ำ จึงเปลี่ยนเป็น wMel (2011)",
   "img": null,
   "pts": null,
   "note": "เชื่อมโยงกับคำถามในชุดข้อสอบเดิมเรื่อง Wolbachia ใน Aedes aegypti - เพิ่มปี 2025 ในข้อเดิมแล้ว (ข้อนี้เก็บไว้เพื่อรายละเอียด wMel strain โดยเฉพาะ)"
@@ -3397,14 +3469,17 @@
   ],
   "src": "PS L1 Q30",
   "q": "Name one mosquito species that can transmit non-human primate malaria to humans.",
-  "a": "<i>Anopheles latens</i> (or <i>Anopheles balabacensis</i>, <i>Anopheles cracens</i> — Leucosphyrus group)",
+  "a": "Any one of <i>An. latens</i>, <i>An. balabacensis</i>, <i>An. cracens</i>, <i>An. dirus</i>, <i>An. hackeri</i>, <i>An. introlatus</i> (all Leucosphyrus group)",
   "kw": [
    "latens",
    "balabacensis",
    "cracens",
-   "leucosphyrus"
+   "leucosphyrus",
+   "dirus",
+   "hackeri",
+   "introlatus"
   ],
-  "ex": "ยุงกลุ่ม <b>Leucosphyrus group</b> เช่น <i>An. latens</i> (ซาราวัก), <i>An. balabacensis</i> (ซาบาห์), <i>An. cracens</i> (ไทย/มาเลเซีย) เป็นพาหะสำคัญของ zoonotic malaria โดยเฉพาะ <i>P. knowlesi</i> จากลิงแสม/ลิงกังสู่คน",
+  "ex": "ยุงกลุ่ม <b>Leucosphyrus group</b> เช่น <i>An. latens</i> (ซาราวัก), <i>An. balabacensis</i> (ซาบาห์), <i>An. cracens</i> (มาเลเซียคาบสมุทร), <i>An. dirus</i> (เวียดนามใต้) และ <i>An. hackeri</i> (พาหะชนิดแรกที่พบ, สลังงอร์ 1961) เป็นพาหะของ zoonotic malaria โดยเฉพาะ <i>P. knowlesi</i> จากลิงแสม/ลิงกังสู่คน",
   "img": null,
   "pts": null,
   "note": null
@@ -3416,11 +3491,15 @@
   ],
   "src": "GF-L1 Q24",
   "q": "Name one species of Anopheles subgenus Cellia which breeds in brackish water and is a vector of human malaria.",
-  "a": "<i>Anopheles sundaicus</i>",
+  "a": "<i>Anopheles sundaicus</i> (also accept <i>An. epiroticus</i>, <i>An. subpictus</i>, <i>An. melas</i>, <i>An. merus</i>)",
   "kw": [
-   "sundaicus"
+   "sundaicus",
+   "epiroticus",
+   "subpictus",
+   "melas",
+   "merus"
   ],
-  "ex": "<i>Anopheles sundaicus</i> เพาะพันธุ์ในน้ำกร่อยตามชายฝั่งทะเล เป็นพาหะมาลาเรียที่สำคัญในพื้นที่ชายฝั่งของเอเชียตะวันออกเฉียงใต้ (อินโดนีเซีย, ไทยฝั่งอันดามัน)",
+  "ex": "<i>Anopheles sundaicus</i> เพาะพันธุ์ในน้ำกร่อยตามชายฝั่งทะเล เป็นพาหะมาลาเรียที่สำคัญในพื้นที่ชายฝั่งของเอเชียตะวันออกเฉียงใต้ (อินโดนีเซีย, ไทยฝั่งอันดามัน) ชนิดอื่นใน Cellia ที่เพาะพันธุ์ในน้ำกร่อย: <i>An. epiroticus</i> (กลุ่ม Sundaicus ชายฝั่งอ่าวไทย), <i>An. subpictus</i>, <i>An. melas</i> และ <i>An. merus</i> (แอฟริกา)",
   "img": null,
   "pts": null,
   "note": null
@@ -3450,14 +3529,18 @@
   ],
   "src": "GF-L1 Q26",
   "q": "Name one main morphological characteristic of the adult Anopheles mosquito.",
-  "a": "Adult <i>Anopheles</i> typically rests with its <b>body/proboscis held at an angle</b> (not parallel) to the resting surface; females have <b>palps as long as the proboscis</b>",
+  "a": "Any one: females have <b>palps as long as the proboscis</b>; rests with proboscis and abdomen in a straight line at about <b>45°</b> to the surface; <b>spotted wings</b> (blocks of dark and pale scales); scutellum evenly rounded (not trilobed)",
   "kw": [
    "angle",
    "palps",
    "proboscis",
-   "resting posture"
+   "resting posture",
+   "palp",
+   "spotted wing",
+   "scutellum",
+   "45"
   ],
-  "ex": "ลักษณะเด่นที่ช่วยแยกยุงก้นปล่อง (<i>Anopheles</i>) จากยุงอื่น คือ<b>ท่าเกาะพักตัวทำมุมกับพื้นผิว</b> (ก้นชี้ขึ้น) และตัวเมียมี palps ยาวเท่ากับ proboscis (ต่างจาก <i>Culex/Aedes</i> ที่เกาะขนานกับพื้นผิวและ palps สั้นกว่า)",
+  "ex": "ลักษณะเด่นที่ช่วยแยกยุงก้นปล่อง (<i>Anopheles</i>) จากยุงอื่น คือ<b>ท่าเกาะพักตัวทำมุมกับพื้นผิว</b> (ก้นชี้ขึ้น) และตัวเมียมี palps ยาวเท่ากับ proboscis (ต่างจาก <i>Culex/Aedes</i> ที่เกาะขนานกับพื้นผิวและ palps สั้นกว่า) ลักษณะอื่น: ปีกมีเกล็ดสีเข้ม-อ่อนเป็นกลุ่ม ๆ (spotted wings) และ scutellum โค้งมนเรียบ ไม่แบ่ง 3 พูเหมือน Culicinae",
   "img": null,
   "pts": null,
   "note": null
@@ -3503,13 +3586,15 @@
   ],
   "src": "PS L1 Q15",
   "q": "Name one arthropod vector species for Lyme disease.",
-  "a": "<i>Ixodes scapularis</i> (also <i>Ixodes ricinus</i> in Europe, <i>Ixodes pacificus</i> in western US)",
+  "a": "<i>Ixodes scapularis</i> (also <i>I. pacificus</i>, <i>I. ricinus</i>, <i>I. persulcatus</i>)",
   "kw": [
    "ixodes",
    "scapularis",
-   "ricinus"
+   "ricinus",
+   "persulcatus",
+   "pacificus"
   ],
-  "ex": "Lyme disease (<i>Borrelia burgdorferi</i>) ติดต่อโดยเห็บสกุล <b><i>Ixodes</i></b> — <i>I. scapularis</i> (deer tick) ในสหรัฐฯฝั่งตะวันออก, <i>I. ricinus</i> ในยุโรป",
+  "ex": "Lyme disease (<i>Borrelia burgdorferi</i>) ติดต่อโดยเห็บสกุล <b><i>Ixodes</i></b> — <i>I. scapularis</i> (deer tick) ในสหรัฐฯฝั่งตะวันออก, <i>I. ricinus</i> ในยุโรป — <i>I. pacificus</i> (สหรัฐฯ ฝั่งตะวันตก) และ <i>I. persulcatus</i> (รัสเซีย/เอเชีย)",
   "img": null,
   "pts": null,
   "note": null
@@ -3525,7 +3610,12 @@
   "kw": [
    "triatoma",
    "proboscis",
-   "stylet"
+   "stylet",
+   "rhodnius",
+   "panstrongylus",
+   "rostrum",
+   "beak",
+   "mouthpart"
   ],
   "ex": "<i>Triatoma</i> (และสกุลใกล้เคียงอย่าง <i>Rhodnius</i>, <i>Panstrongylus</i>) เป็นพาหะของ <i>T. cruzi</i> ส่วนตัวเรือด (bedbug, <i>Cimex</i>) ใช้ <b>proboscis</b> ที่มี stylet แทงผ่านผิวหนังเพื่อดูดเลือด แม้ไม่ใช่พาหะของปรสิตที่สำคัญในคน",
   "img": null,
@@ -3556,16 +3646,18 @@
   ],
   "src": "GF-L2 Q6",
   "q": "Name two parasite species that can be recovered from this specimen (a tick embedded in skin, being removed with forceps).",
-  "a": "<i>Babesia microti</i> and <i>Borrelia burgdorferi</i> (though the latter is a bacterium, both are classically tested as tick-borne agents transmitted by <i>Ixodes</i> ticks); alternative parasitic co-pathogen: <i>Anaplasma</i>/<i>Ehrlichia</i> (bacteria) or filarial-like organisms depending on region",
+  "a": "<i>Babesia microti</i> and <i>Babesia divergens</i> (or <i>B. venatorum</i>) — protozoa transmitted by <i>Ixodes</i>. If the examiner uses \"parasite\" loosely: <i>B. microti</i> + <i>Borrelia burgdorferi</i> (a bacterium)",
   "kw": [
-   "babesia microti",
-   "borrelia burgdorferi",
-   "ixodes"
+   "babesia",
+   "microti",
+   "divergens",
+   "borrelia",
+   "burgdorferi"
   ],
-  "ex": "เห็บ <i>Ixodes</i> เป็นพาหะร่วมของทั้ง <b><i>Babesia microti</i></b> (โปรโตซัว, babesiosis) และ <b><i>Borrelia burgdorferi</i></b> (แบคทีเรีย, Lyme disease) ผู้ป่วยอาจติดเชื้อร่วมกันทั้งสองชนิดจากเห็บตัวเดียว (co-infection)",
+  "ex": "ปรสิตแท้จากเห็บ <i>Ixodes</i> คือโปรโตซัว <i>Babesia</i>: <i>B. microti</i> (<i>I. scapularis</i>, สหรัฐฯ) และ <i>B. divergens/B. venatorum</i> (<i>I. ricinus</i>, ยุโรป) ส่วน <i>Borrelia</i>, <i>Anaplasma</i>, <i>Ehrlichia</i> เป็นแบคทีเรีย เห็บตัวเดียวอาจถ่ายทอดหลายเชื้อพร้อมกัน (co-infection)",
   "img": "y25_tickremoval",
   "pts": null,
-  "note": "คำถามถามหา 'parasite species' สองชนิด ซึ่งในบริบทกีฏวิทยาทางการแพทย์อาจหมายถึง Babesia + Borrelia (แม้ Borrelia จะเป็นแบคทีเรียไม่ใช่ปรสิตแท้จริง) หรืออาจหมายถึงชนิด Babesia สองสปีชีส์ - ควรตรวจสอบเฉลยจริงหากมี"
+  "note": "โจทย์ถาม \"parasite species\" สองชนิด คำตอบที่ปลอดภัยที่สุดคือ Babesia สองชนิด ถ้ากรรมการนับแบคทีเรียด้วย Borrelia burgdorferi ก็อาจได้คะแนน ควรตรวจกับเฉลยจริงถ้ามี"
  },
  {
   "ch": "arthropod",
@@ -3645,14 +3737,19 @@
   ],
   "src": "PS L2 Q7",
   "q": "A microscopic examination of a river sample shows this organism. Name one parasite species that can infect humans and state where its adult stage is found in humans.",
-  "a": "Organism = a <b>copepod (<i>Cyclops</i>)</b>, the first intermediate host. e.g. <i>Dracunculus medinensis</i> → adult female in the <b>subcutaneous tissue</b> (usually lower legs/feet); or <i>Diphyllobothrium latum</i> → adult in the <b>small intestine</b>",
+  "a": "Organism = a <b>copepod (<i>Cyclops</i>)</b>. It is the <b>sole intermediate host</b> of <i>Dracunculus medinensis</i> → adult female in the <b>subcutaneous tissue</b> (usually legs/feet); and the <b>first intermediate host</b> of <i>Dibothriocephalus</i> (= <i>Diphyllobothrium</i>) <i>latus</i> → adult in the <b>small intestine</b>",
   "kw": [
    "dracunculus",
    "subcutaneous",
    "diphyllobothrium",
-   "small intestine"
+   "small intestine",
+   "medinensis",
+   "guinea",
+   "dibothriocephalus",
+   "under the skin",
+   "intestin"
   ],
-  "ex": "สิ่งมีชีวิตในภาพคือ<b>โคพีพอด (<i>Cyclops</i>)</b> ลำตัวแบ่งปล้อง มีหนวดยาวและหางแฉก ไม่ใช่ตัวอ่อนพยาธิ ปรสิตที่ใช้ Cyclops เป็นโฮสต์กึ่งกลางและติดคนได้ เช่น <i>Dracunculus medinensis</i> (คนดื่มน้ำที่มี Cyclops ติด L3 ตัวเต็มวัยเพศเมียอยู่<b>ใต้ผิวหนัง</b> มักที่ขา/เท้า), <i>Diphyllobothrium</i> (procercoid ใน Cyclops ตัวเต็มวัยอยู่ใน<b>ลำไส้เล็ก</b>) ส่วน <i>Gnathostoma</i> และ <i>Spirometra</i> ก็ใช้ Cyclops แต่คนเป็นแค่ paratenic/accidental host ตัวเต็มวัยไม่ได้อยู่ในคน",
+  "ex": "สิ่งมีชีวิตในภาพคือ<b>โคพีพอด (<i>Cyclops</i>)</b> ลำตัวแบ่งปล้อง มีหนวดยาวและหางแฉก ไม่ใช่ตัวอ่อนพยาธิ Cyclops เป็น<b>โฮสต์กึ่งกลางเพียงตัวเดียว</b>ของ <i>Dracunculus medinensis</i> (คนดื่มน้ำที่มี Cyclops ติด L3 ตัวเต็มวัยเพศเมียอยู่<b>ใต้ผิวหนัง</b> มักที่ขา/เท้า) และเป็นโฮสต์กึ่งกลาง<b>ตัวที่ 1</b> ของ <i>Diphyllobothrium latum</i> (ชื่อปัจจุบัน <i>Dibothriocephalus latus</i>, มีปลาน้ำจืดเป็นโฮสต์ตัวที่ 2, ตัวเต็มวัยอยู่ใน<b>ลำไส้เล็ก</b>) ส่วน <i>Gnathostoma</i> และ <i>Spirometra</i> ก็ใช้ Cyclops แต่คนเป็นแค่ paratenic/accidental host ตัวเต็มวัยไม่ได้อยู่ในคน",
   "img": "y25_riverorganism",
   "pts": null,
   "note": null

@@ -75,7 +75,12 @@
    "kw": [
     "th2",
     "il-5",
-    "il5"
+    "il5",
+    "th-2",
+    "helper 2",
+    "interleukin-5",
+    "interleukin 5",
+    "type 2"
    ],
    "ex": "ประเด็นที่ควรเขียน: หนอนตัวใหญ่ phagocytose ไม่ได้ → ร่างกายตอบสนองแบบ Th2 → IL-5 กระตุ้นไขกระดูกสร้าง eosinophil, IgE ทำให้ eosinophil/mast cell ทำงาน (ADCC) ส่วนโปรโตซัวมักอยู่ในเซลล์และกระตุ้น Th1 (IFN-γ, macrophage) ข้อยกเว้นที่ควรรู้: Cystoisospora belli เป็นโปรโตซัวที่ทำให้ eosinophilia ได้",
    "img": null,
@@ -90,7 +95,8 @@
    "q": "Name the phenomenon in which a parasite periodically changes its surface antigens to escape host antibodies, and give one example.",
    "a": "<b>Antigenic variation</b> — e.g. VSG switching in <i>Trypanosoma brucei</i>, PfEMP1 (<i>var</i> genes) in <i>P. falciparum</i>, VSPs in <i>Giardia</i>",
    "kw": [
-    "antigenic variation"
+    "antigenic variation",
+    "antigen variation"
    ],
    "ex": "กลไกหลบภูมิคุ้มกันที่ยังไม่เคยถามตรง ๆ แต่เคยถามส่วนประกอบ (VSG 2025, PfEMP1 หลายปี) กลไกอื่นที่ควรรู้: antigen masking (Schistosoma, ถามแล้ว), molecular mimicry, intracellular sequestration, immunosuppression (Brugia cystatin, ถามแล้ว), shedding/capping",
    "img": null,
@@ -105,7 +111,8 @@
    "q": "Name the concentration technique that uses formalin and ether (or ethyl acetate) to detect helminth eggs and protozoan cysts in stool.",
    "a": "<b>Formalin–ether (formalin–ethyl acetate) concentration technique</b> — a sedimentation method",
    "kw": [
-    "formalin"
+    "formalin",
+    "formol"
    ],
    "ex": "เป็นวิธี sedimentation มาตรฐานของห้องแล็บ เพิ่มความไวในการหาไข่/ซีสต์ ส่วนวิธี flotation (เช่น zinc sulfate) ไข่ที่หนัก เช่น ไข่ที่มีฝา (operculated) และไข่ Ascaris ที่ไม่ปฏิสนธิ มักไม่ลอย",
    "img": null,
@@ -167,10 +174,8 @@
    "q": "Name the first malaria vaccine recommended by WHO for children in endemic areas and the antigen it targets.",
    "a": "<b>RTS,S/AS01 (Mosquirix)</b>, WHO-recommended 2021; targets the <b>circumsporozoite protein (CSP)</b> of <i>P. falciparum</i>. A second vaccine, <b>R21/Matrix-M</b>, was recommended in 2023",
    "kw": [
-    "rts,s",
-    "rts s",
-    "mosquirix",
-    "r21"
+    "rts",
+    "mosquirix"
    ],
    "ex": "วัคซีนทั้งสองตัวเล็งระยะ sporozoite (pre-erythrocytic) ผ่านโปรตีน CSP ใช้ในเด็กแอฟริกาที่มี P. falciparum ชุก หัวข้อ vaccine ยังไม่เคยออกเลยแต่เป็นข่าวใหญ่ของวงการ",
    "img": null,
@@ -201,7 +206,12 @@
    "q": "Malaysia has reported zero indigenous human malaria cases since 2018, yet it has not been certified malaria-free by WHO. Name the reason.",
    "a": "Ongoing zoonotic <b><i>Plasmodium knowlesi</i></b> infections (transmitted from macaques by <i>Anopheles</i> Leucosphyrus group), which cannot be eliminated by human-focused interventions",
    "kw": [
-    "knowlesi"
+    "knowlesi",
+    "zoonotic",
+    "zoonosis",
+    "simian",
+    "monkey",
+    "macaque"
    ],
    "ex": "ประเด็นสาธารณสุขของมาเลเซียโดยตรง knowlesi มี reservoir ในลิงแสม/ลิงกัง (Macaca fascicularis, M. nemestrina) และยุงกัดในป่า เจาะจงเชื่อมกับข้อ knowlesi/cynomolgi ที่ออกซ้ำหลายปี",
    "img": null,
@@ -217,7 +227,9 @@
    "a": "<b>Mass drug administration (MDA)</b> — preventive chemotherapy (e.g. IDA: ivermectin + DEC + albendazole)",
    "kw": [
     "mass drug administration",
-    "mda"
+    "mda",
+    "preventive chemotherapy",
+    "mass treatment"
    ],
    "ex": "เป็นหัวใจของ Global Programme to Eliminate LF และแผน WHO NTD roadmap 2021–2030 ประเทศไทยได้รับการรับรองว่ากำจัด LF ในฐานะปัญหาสาธารณสุขแล้ว (2017)",
    "img": null,
@@ -359,7 +371,9 @@
     "pkdl",
     "post-kala-azar",
     "post kala-azar",
-    "post kala azar"
+    "post kala azar",
+    "dermal leish",
+    "post-kala azar"
    ],
    "ex": "พบมากในซูดานและอินเดีย/บังกลาเทศ ผู้ป่วย PKDL เป็นแหล่งเชื้อให้ริ้นฝอยทราย จึงสำคัญต่อการกำจัดโรค ต่อยอดจากข้อ VL/pancytopenia ที่ออก 4 ปี",
    "img": null,
@@ -424,7 +438,7 @@
    "kw": [
     "winterbottom"
    ],
-   "ex": "T. b. gambiense ดำเนินโรคช้า (ถามแล้วว่า rhodesiense เฉียบพลัน) การรักษาระยะใหม่: fexinidazole กินได้, ระยะ CNS แบบเก่า: melarsoprol/eflornithine",
+   "ex": "T. b. gambiense ดำเนินโรคช้า (ถามแล้วว่า rhodesiense เฉียบพลัน) การรักษา g-HAT ปัจจุบัน: <b>fexinidazole</b> (ยากิน 10 วัน) สำหรับระยะ 1 และระยะ 2 ที่ไม่รุนแรง; ระยะ 2 รุนแรง (CSF WBC &gt;100/µL) ใช้ <b>NECT</b> (nifurtimox + eflornithine); pentamidine สำหรับระยะ 1 ในเด็กเล็ก; ยาใหม่ acoziborole เป็นยากินครั้งเดียว melarsoprol ไม่ใช้ใน gambiense แล้ว เหลือใช้ใน rhodesiense ระยะ CNS",
    "img": null,
    "pts": null,
    "note": null
@@ -487,7 +501,10 @@
    "a": "Deletion of the <b><i>pfhrp2/pfhrp3</i> genes</b> means the parasite does not produce HRP2 antigen; other causes: prozone effect at very high parasitaemia, very low parasitaemia below detection limit",
    "kw": [
     "hrp2",
-    "deletion"
+    "deletion",
+    "prozone",
+    "hook effect",
+    "low parasit"
    ],
    "ex": "HRP2 เป็นโปรตีนเฉพาะของ P. falciparum ถ้ายีนหายไป RDT ก็จะไม่เจอแม้มีเชื้อในเลือดจริง ต้องยืนยันด้วยกล้องจุลทรรศน์หรือใช้ RDT ที่ตรวจ pLDH ร่วม ข้อ L3 ในปีก่อน ๆ ชอบถามเรื่อง 'ทำไมวิธีตรวจนี้ไม่ได้ผล' (PAM antibody, avidity)",
    "img": null,
@@ -517,7 +534,8 @@
    "q": "Name the dark urine complication of falciparum malaria caused by massive intravascular haemolysis.",
    "a": "<b>Blackwater fever</b> (haemoglobinuria)",
    "kw": [
-    "blackwater"
+    "blackwater",
+    "black water"
    ],
    "ex": "ภาวะแทรกซ้อนอื่นของ severe falciparum ที่ควรจำ: cerebral malaria (sequestration, ออกแล้ว), severe anaemia, acute kidney injury, ARDS, hypoglycaemia, acidosis ส่วน P. malariae ทำให้เกิด nephrotic syndrome",
    "img": null,
@@ -565,7 +583,11 @@
    "a": "Cyst fluid is highly antigenic → <b>anaphylactic shock</b>; the protoscolices ('hydatid sand') spilled can each grow into new cysts → <b>secondary echinococcosis</b>",
    "kw": [
     "anaphyla",
-    "secondary"
+    "secondary",
+    "allerg",
+    "protoscol",
+    "dissemin",
+    "daughter cyst"
    ],
    "ex": "จึงต้องให้ albendazole ก่อนและหลังผ่าตัด และใช้เทคนิค PAIR (Puncture, Aspiration, Injection of scolicidal agent, Re-aspiration) ในรายที่เหมาะสม",
    "img": null,
@@ -625,12 +647,12 @@
    "ext": true,
    "src": "Extended · L1 · SEA",
    "q": "Name one acanthocephalan species that has infected humans in Thailand, and how infection is acquired.",
-   "a": "<b><i>Macracanthorhynchus hirudinaceus</i></b> — by eating raw/undercooked <b>beetles</b> (intermediate host); also <i>Moniliformis moniliformis</i> (cockroaches/beetles)",
+   "a": "<b><i>Macracanthorhynchus hirudinaceus</i></b> — by eating raw/undercooked <b>beetles</b> (scarab/dung beetles, the intermediate host)",
    "kw": [
     "macracanthorhynchus",
-    "moniliformis"
+    "hirudinaceus"
    ],
-   "ex": "หมวด Acanthocephalans อยู่ในชื่อบทแต่ยังไม่เคยออกเลยใน 5 ปี ลักษณะเด่นของ thorny-headed worm: มี proboscis ยื่นหดได้และมีขอ, ไม่มีทางเดินอาหาร (ดูดซึมผ่านผิว), โฮสต์กึ่งกลางเป็นแมลง ในไทยมีรายงานเด็กที่กินด้วงดิบแล้วปวดท้อง/ลำไส้ทะลุ",
+   "ex": "หมวด Acanthocephalans อยู่ในชื่อบทแต่ยังไม่เคยออกเลยใน 5 ปี ลักษณะเด่นของ thorny-headed worm: มี proboscis ยื่นหดได้และมีขอ, ไม่มีทางเดินอาหาร (ดูดซึมผ่านผิว), โฮสต์กึ่งกลางเป็นแมลง ในไทยมีรายงานคนติด <i>M. hirudinaceus</i> จากการกินด้วงดิบ (บางรายลำไส้ทะลุ) ส่วน <i>Moniliformis moniliformis</i> (แมลงสาบ/ด้วง) มีรายงานในคนจากอิหร่าน อิรัก ไนจีเรีย สหรัฐฯ จึงไม่ควรใช้เป็นคำตอบ \"ในไทย\"",
    "img": null,
    "pts": null,
    "note": null
@@ -646,7 +668,9 @@
     "proboscis",
     "hook",
     "no digestive",
-    "gut"
+    "gut",
+    "digestive",
+    "alimentary"
    ],
    "ex": "Acanthocephala ไม่ใช่ cestode แต่ถูกรวมไว้ในบทเดียวกันเพราะไม่มีทางเดินอาหารเหมือนตืด เป็นข้อ L1 แบบที่กรรมการชอบ (state one morphological feature)",
    "img": null,
@@ -741,7 +765,12 @@
    "kw": [
     "watercress",
     "aquatic plant",
-    "lymnaea"
+    "lymnaea",
+    "lymnae",
+    "galba",
+    "radix",
+    "water plant",
+    "aquatic veg"
    ],
    "ex": "ยาคือ triclabendazole (ออกแล้ว 2025) F. gigantica พบในเอเชียรวมถึงไทย ในระยะเฉียบพลันพยาธิไชผ่านตับ (มีไข้ ปวดชายโครงขวา eosinophilia) แล้วจึงอยู่ในท่อน้ำดี",
    "img": null,
@@ -788,7 +817,8 @@
    "q": "Name the intestinal fluke acquired by eating raw freshwater snails or fish in Thailand and whose adults have a collar of spines around the oral sucker.",
    "a": "<b><i>Echinostoma</i></b> spp. (echinostomiasis)",
    "kw": [
-    "echinostoma"
+    "echinostoma",
+    "echinostom"
    ],
    "ex": "Echinostome มี collar spines รอบ oral sucker ไข่มีฝาคล้าย Fasciola แต่เล็กกว่า พบในไทย ลาว ฟิลิปปินส์",
    "img": null,
@@ -848,7 +878,11 @@
    "q": "Explain why ivermectin must be used with caution in people co-infected with high-density Loa loa.",
    "a": "Rapid killing of massive numbers of <i>Loa loa</i> microfilariae (typically >30,000 mf/mL) can cause <b>fatal encephalopathy</b> (microfilarial emboli/inflammation in brain capillaries). Measure Loa load before MDA",
    "kw": [
-    "encephalopathy"
+    "encephalopathy",
+    "encephal",
+    "brain",
+    "coma",
+    "neurolog"
    ],
    "ex": "ต่อยอดตรงจากข้อ DEC-onchocerciasis (ถามแล้ว) และ skin snip แบบไม่ให้มีเลือด (ถามแล้ว) ในพื้นที่ที่มี Loa loa และ Onchocerca ร่วมกัน ข้อนี้เป็นเหตุผลว่าทำไมการ MDA ด้วย ivermectin ในแอฟริกากลางต้องระวัง",
    "img": null,
@@ -898,7 +932,13 @@
    "kw": [
     "corticosteroid",
     "steroid",
-    "htlv"
+    "htlv",
+    "glucocorticoid",
+    "prednis",
+    "dexameth",
+    "immunosupp",
+    "transplant",
+    "lymphotropic"
    ],
    "ex": "Strongyloides ถามหลายข้อแล้ว (autoinfection, ivermectin, ตรวจยาก) แต่ยังไม่ได้ถามว่าอะไรทำให้เกิด hyperinfection ซึ่งตัวอ่อนจะนำเชื้อแบคทีเรียจากลำไส้ไปด้วย ทำให้เกิด gram-negative sepsis/meningitis",
    "img": null,
@@ -945,7 +985,13 @@
    "kw": [
     "rectal prolapse",
     "prolapse",
-    "dysentery"
+    "dysentery",
+    "anaemia",
+    "anemia",
+    "growth",
+    "stunt",
+    "clubbing",
+    "colitis"
    ],
    "ex": "ปี 2024 ถามว่าระยะไหนก่อโรค (ตัวเต็มวัย) ข้อต่อยอดคือภาวะแทรกซ้อน ภาพ rectal prolapse ที่มีพยาธิเกาะอยู่เป็นภาพคลาสสิกที่มักใช้ใน L2",
    "img": null,
@@ -962,7 +1008,13 @@
    "kw": [
     "oral",
     "transmammary",
-    "breast"
+    "breast",
+    "ingest",
+    "swallow",
+    "milk",
+    "lactogenic",
+    "placent",
+    "congenital"
    ],
    "ex": "ทั้งสองติดทางผิวหนังโดย filariform larva (ถามแล้ว) A. duodenale ทำให้เสียเลือดมากกว่าต่อพยาธิหนึ่งตัว มี 2 คู่ฟันที่ buccal capsule ส่วน Necator มี cutting plates",
    "img": null,
@@ -978,9 +1030,10 @@
    "a": "<b><i>Leptotrombidium</i></b> mites (chiggers) — only the <b>larval stage</b> feeds on humans; transmits <i>Orientia tsutsugamushi</i>",
    "kw": [
     "leptotrombidium",
-    "chigger"
+    "chigger",
+    "trombicul"
    ],
-   "ex": "เป็นโรคที่พบบ่อยมากในไทย/มาเลเซีย ไข้ + eschar รักษาด้วย doxycycline ปีที่ผ่านมาถามพาหะของ Lyme/epidemic typhus แล้ว ข้อนี้คือพาหะในภูมิภาคที่ยังไม่ได้ถาม",
+   "ex": "เฉพาะระยะตัวอ่อน (larva/chigger) ของไรวงศ์ Trombiculidae สกุล <i>Leptotrombidium</i> ที่กินเนื้อเยื่อคน ส่วน nymph และตัวเต็มวัยอาศัยอิสระในดิน เชื้อถ่ายทอดผ่านไข่ (transovarial) โรคนี้พบบ่อยมากในไทย/มาเลเซีย มีไข้ + eschar รักษาด้วย doxycycline",
    "img": null,
    "pts": null,
    "note": null
@@ -1010,7 +1063,11 @@
    "a": "<b>Plague</b> (<i>Yersinia pestis</i>) and <b>murine (endemic) typhus</b> (<i>Rickettsia typhi</i>); it is also an intermediate host of <i>Hymenolepis</i>",
    "kw": [
     "plague",
-    "murine"
+    "murine",
+    "endemic typhus",
+    "flea-borne typhus",
+    "yersinia",
+    "rickettsia typhi"
    ],
    "ex": "ปี 2025 ถามแค่โรคเดียว (มักตอบ plague) ข้อนี้ขอสองโรค ต้องจำ murine typhus ด้วย",
    "img": null,
@@ -1086,7 +1143,10 @@
    "a": "<b>Anopheles</b> larvae have <b>no siphon</b> and lie <b>parallel</b> to the surface; <b>Culex/Aedes</b> larvae have a <b>siphon</b> and hang at an angle",
    "kw": [
     "siphon",
-    "parallel"
+    "parallel",
+    "horizontal",
+    "angle",
+    "palmate"
    ],
    "ex": "ถามแล้วเรื่องท่าเกาะยุงตัวเต็มวัย ไข่ Culex (raft) และลูกน้ำ Mansonia (เกาะรากพืช) ส่วนที่เหลือคือลูกน้ำ Anopheles/Culex และไข่ Anopheles (มี float) / Aedes (ไข่เดี่ยว ทนแห้ง)",
    "img": null,
@@ -1116,13 +1176,14 @@
    "ext": true,
    "src": "Extended · L1 · SEA",
    "q": "Name the vector control approach that releases Wolbachia-infected male mosquitoes to make wild females' eggs fail to hatch.",
-   "a": "<b>Incompatible insect technique (IIT)</b> via cytoplasmic incompatibility (vs. population replacement, which releases Wolbachia-carrying females)",
+   "a": "<b>Incompatible insect technique (IIT)</b> — Wolbachia-based population suppression via cytoplasmic incompatibility (often combined with irradiation as IIT–SIT). Contrast with population replacement, which releases infected males <b>and</b> females",
    "kw": [
     "incompatible insect",
     "iit",
-    "cytoplasmic incompatibility"
+    "cytoplasmic incompatibility",
+    "suppression"
    ],
-   "ex": "Wolbachia ออกแล้ว 3 ครั้ง (ชื่อแบคทีเรีย, wMel) ข้อต่อไปมักถามกลไก: cytoplasmic incompatibility และการลดความสามารถของยุงในการแพร่ไวรัส (pathogen interference) มาเลเซียปล่อยยุง Wolbachia (wAlbB) ในหลายพื้นที่",
+   "ex": "IIT ปล่อยเฉพาะตัวผู้ที่มี Wolbachia (มักฉายรังสีกำจัดตัวเมียที่ปนมา = IIT-SIT) ผสมกับตัวเมียในธรรมชาติแล้วไข่ไม่ฟัก (cytoplasmic incompatibility) ส่วน population replacement ปล่อยทั้งตัวผู้และตัวเมีย เพราะ Wolbachia ถ่ายทอดทางไข่ของตัวเมีย และลดการแพร่ไวรัสด้วย pathogen blocking มาเลเซียปล่อยยุง Wolbachia สาย wAlbB ในหลายพื้นที่",
    "img": null,
    "pts": null,
    "note": null
@@ -1146,11 +1207,11 @@
  "notes": {
   "all": "<p class=\"lead\">ส่วนนี้เป็น<b>การคาดการณ์</b> ไม่ใช่ข้อสอบเก่า ผมวิเคราะห์จากรูปแบบของข้อสอบ 5 ปีที่มี และจากการที่งานจัดที่ Universiti Malaya</p>\n<h3>รูปแบบที่เห็นจากข้อสอบ 2021–2025</h3>\n<ul>\n<li><b>Level 1</b> เป็นคำถามสั้นให้ตอบชื่อ: infective stage, drug of choice, พาหะ, ชื่อโรค/ชนิด และแบบ superlative (longest, largest, first, only)</li>\n<li><b>Level 2</b> เป็นภาพ: ไข่, scolex, สไลด์เลือด, หอย, ยุง/แมลงวัน, ภาพผู้ป่วย และกราฟไข้ ภาพเดิมถูกนำกลับมาใช้ซ้ำ (เช่น sparganum, scolex, ไข่ยุง Culex ที่ออกทั้ง 2022 และ 2025)</li>\n<li><b>Level 3</b> ให้อธิบายว่าทำไม: ทำไมวิธีตรวจนี้ใช้ไม่ได้, ทำไมยานี้ห้ามใช้, ทำไมเกิดภาวะนี้</li>\n<li>หัวข้อ<b>อาเซียน/มาเลเซีย</b>ออกสม่ำเสมอ: P. knowlesi, P. cynomolgi (Terengganu), Anopheles Leucosphyrus group, An. sundaicus, Brugia malayi, Mansonia</li>\n<li>คำถามมักต่อยอดเป็นคู่ เช่น ปีหนึ่งถาม Lutzomyia อีกปีมักถามคู่ Phlebotomus หรือถาม recrudescence แล้วต่อด้วย relapse</li>\n</ul>\n<h3>หลักที่ใช้เลือกหัวข้อ Extended</h3>\n<ol>\n<li>คู่ของหัวข้อที่ออกแล้วแต่อีกฝั่งยังไม่ได้ถาม</li>\n<li>ปรสิตท้องถิ่นของมาเลเซีย/ไทย/ลุ่มน้ำโขงที่ยังไม่เคยออก (ป้าย <span class=\"xsea\">SEA</span>)</li>\n<li>หมวดที่อยู่ในชื่อบทแต่ยังไม่เคยออก เช่น Acanthocephalans</li>\n<li>ข่าวใหญ่ของวงการ: วัคซีนมาลาเรีย, เชื้อดื้อ artemisinin, HRP2 deletion, Wolbachia</li>\n</ol>\n<p class=\"small\">โจทย์ Extended แยกจากข้อสอบจริง ไม่นับรวมในสถิติและ Flashcard เปิดใช้ได้ที่ปุ่ม <b>Extended</b> ในหน้าฝึกทำข้อสอบ</p>",
   "basic": "<ul>\n<li><b>ชนิดของโฮสต์</b>: definitive (อาศัยเพศ/ตัวเต็มวัย), intermediate, reservoir, paratenic (ออกแล้ว), accidental/dead-end — มาลาเรีย: <b>ยุงเป็น definitive host</b>, แมวเป็น definitive host ของ Toxoplasma</li>\n<li><b>ชนิดการถ่ายทอดทางพาหะ</b>: mechanical กับ biological (propagative, cyclodevelopmental เช่น filaria, cyclopropagative เช่น Plasmodium/Trypanosoma/Leishmania)</li>\n<li><b>ภูมิคุ้มกัน</b>: หนอนพยาธิ → Th2, IL-5, eosinophil, IgE ส่วนโปรโตซัวส่วนใหญ่ → Th1 ข้อยกเว้น Cystoisospora ทำให้ eosinophilia ได้</li>\n<li><b>กลไกหลบภูมิคุ้มกัน</b>ที่ยังไม่ถามตรง ๆ: antigenic variation (VSG, PfEMP1/var genes, Giardia VSP), molecular mimicry</li>\n<li><b>วิธีตรวจพิเศษ</b>: formalin–ether concentration, Kato-Katz, agar plate/Baermann/Harada–Mori (Strongyloides), Knott's concentration, NNN medium (Leishmania), Sabin–Feldman dye test</li>\n</ul>",
-  "general": "<ul>\n<li><b>Nobel</b>: Ross 1902 (ยุงพาหะมาลาเรีย), Laveran 1907 (เชื้อมาลาเรีย), Wagner-Jauregg 1927 (malariotherapy), Campbell & Ōmura 2015 (ivermectin)</li>\n<li><b>วัคซีนมาลาเรีย</b>: RTS,S/AS01 (2021) และ R21/Matrix-M (2023) ทั้งคู่เล็ง circumsporozoite protein</li>\n<li><span class=\"xsea\">SEA</span> <b>Sarcocystis nesbitti</b> ระบาดในนักท่องเที่ยวเกาะ Tioman มาเลเซีย ปี 2011–2012 (muscular sarcocystosis)</li>\n<li><span class=\"xsea\">SEA</span> <b>มาเลเซีย</b>ไม่มีมาลาเรียในคนที่ติดในประเทศตั้งแต่ 2018 แต่ยังรับรอง malaria-free ไม่ได้เพราะ P. knowlesi</li>\n<li><b>การกำจัดโรค</b>: MDA, WHO NTD roadmap 2021–2030, ไทยกำจัด LF ในฐานะปัญหาสาธารณสุขได้ (2017), One Health</li>\n</ul>",
+  "general": "<ul>\n<li><b>Nobel</b> (ปีที่ได้รางวัล ไม่ใช่ปีที่ค้นพบ): Ross 1902 (ค้นพบปี 1897–1898: ยุงพาหะมาลาเรีย), Laveran 1907 (ค้นพบปี 1880: เชื้อมาลาเรียในเลือด), Wagner-Jauregg 1927 (malariotherapy), Campbell & Ōmura 2015 (ivermectin)</li>\n<li><b>วัคซีนมาลาเรีย</b>: RTS,S/AS01 (2021) และ R21/Matrix-M (2023) ทั้งคู่เล็ง circumsporozoite protein</li>\n<li><span class=\"xsea\">SEA</span> <b>Sarcocystis nesbitti</b> ระบาดในนักท่องเที่ยวเกาะ Tioman มาเลเซีย ปี 2011–2012 (muscular sarcocystosis)</li>\n<li><span class=\"xsea\">SEA</span> <b>มาเลเซีย</b>ไม่มีมาลาเรียในคนที่ติดในประเทศตั้งแต่ 2018 แต่ยังรับรอง malaria-free ไม่ได้เพราะ P. knowlesi</li>\n<li><b>การกำจัดโรค</b>: MDA, WHO NTD roadmap 2021–2030, ไทยกำจัด LF ในฐานะปัญหาสาธารณสุขได้ (2017), One Health</li>\n</ul>",
   "protozoa": "<ul>\n<li><b>ตัวที่ยังไม่เคยออก</b>: Balantidium coli (ciliate ตัวเดียวที่ก่อโรค, ใหญ่ที่สุด, หมู), Trichomonas vaginalis (ไม่มี cyst, strawberry cervix), Cyclospora (เรืองแสงใต้ UV), Cystoisospora (eosinophilia, HIV), E. dispar (แยกจาก E. histolytica ด้วย PCR/antigen)</li>\n<li><b>Toxoplasma</b>: congenital triad (chorioretinitis, hydrocephalus, calcification), Sabin–Feldman dye test</li>\n<li><b>Leishmania</b>: PKDL, miltefosine (กินได้, ห้ามในหญิงตั้งครรภ์), liposomal amphotericin B; <span class=\"xsea\">SEA</span> L. martiniquensis / L. orientalis ในไทย (มักพบใน HIV)</li>\n<li><b>Trypanosoma</b>: Romaña's sign/chagoma, megacolon/megaoesophagus, benznidazole/nifurtimox; Winterbottom's sign (gambiense), fexinidazole</li>\n<li><b>มาลาเรีย</b>: hypnozoite → relapse (vivax, ovale) เทียบกับ recrudescence; Schüffner's/James's/Ziemann's dots; artesunate IV สำหรับ severe malaria; blackwater fever; P. malariae → nephrotic syndrome</li>\n<li><span class=\"xsea\">SEA</span> <b>เชื้อดื้อยา</b>: PfKelch13 → artemisinin partial resistance ในลุ่มน้ำโขง; <b>pfhrp2/3 deletion</b> → RDT ผลลบลวง</li>\n<li><b>ภาวะที่ป้องกันมาลาเรีย</b>: sickle cell trait, thalassaemia, HbE, G6PD deficiency, Southeast Asian ovalocytosis, Duffy-negative</li>\n</ul>",
   "cestode": "<ul>\n<li><b>Echinococcus granulosus</b>: หมา (definitive), แกะ (intermediate), คนเป็น dead-end host; ถุงน้ำแตกทำให้ anaphylaxis + secondary cysts; PAIR + albendazole</li>\n<li><b>T. saginata</b>: วัว, scolex ไม่มีขอ, แขนงมดลูก 15–20 ข้าง/ด้าน, ไม่ก่อ cysticercosis</li>\n<li><b>Dipylidium caninum</b>: หมัดเป็นโฮสต์กึ่งกลาง, proglottid รูปเมล็ดแตงกวา/เมล็ดข้าว, ไข่เป็นกลุ่ม (egg packet)</li>\n<li><b>H. diminuta</b>: หนู, แมลงเป็นโฮสต์กึ่งกลาง, ไข่ไม่มี polar filaments</li>\n<li><span class=\"xsea\">SEA</span> <b>Sparganosis</b>: วงจร Cyclops → กบ/งู → หมา/แมว, คนติดจากการพอกเนื้อกบ/งูดิบ</li>\n<li><span class=\"xsea\">SEA</span> <b>Acanthocephalans</b> (ยังไม่เคยออกเลย): proboscis มีขอ ไม่มีทางเดินอาหาร โฮสต์กึ่งกลางเป็นแมลง — <i>Macracanthorhynchus hirudinaceus</i> (ด้วง, มีรายงานในไทย), <i>Moniliformis moniliformis</i></li>\n</ul>",
   "trematode": "<ul>\n<li><span class=\"xsea\">SEA</span> <b>Schistosoma ท้องถิ่น</b>: S. malayensis (มาเลเซีย, หอย Robertsiella), S. mekongi (ลาว/กัมพูชา, หอย Neotricula aperta)</li>\n<li><b>ไข่ Schistosoma</b>: haematobium หนามปลาย (ปัสสาวะ), mansoni หนามข้าง, japonicum/mekongi ปุ่มเล็ก</li>\n<li><span class=\"xsea\">SEA</span> <b>Opisthorchis</b>: หอย Bithynia → ปลาตระกูลปลาตะเพียน (ก้อยปลา) — Haplorchis taichui ไข่คล้ายกันมาก</li>\n<li><b>Fasciola</b>: ผักน้ำ (watercress), หอย Lymnaea, triclabendazole</li>\n<li><b>Echinostoma</b>: collar spines, ติดจากหอย/ปลาดิบ; <b>swimmer's itch</b> จาก cercaria ของ schistosome นก</li>\n</ul>",
   "nematode": "<ul>\n<li><span class=\"xsea\">SEA</span> <b>Angiostrongylus cantonensis</b>: eosinophilic meningitis, หอยโข่ง/หอยทาก, ตัวเหี้ย, กุ้ง</li>\n<li><span class=\"xsea\">SEA</span> <b>Gnathostoma spinigerum</b>: ก้อนบวมย้ายที่, eosinophilic myeloencephalitis, CSF มีเลือด</li>\n<li><span class=\"xsea\">SEA</span> <b>Trichinella</b>: หมูดิบ/หมูป่า, ปวดกล้ามเนื้อ, หนังตาบวม, CPK สูง, nurse cell</li>\n<li><b>Filaria</b>: Loa loa + ivermectin → encephalopathy; W. bancrofti เจาะเลือดกลางคืน 22.00–02.00 น.; Mazzotti reaction</li>\n<li><b>Strongyloides</b>: hyperinfection จาก steroid/HTLV-1, gram-negative sepsis, larva currens</li>\n<li><b>ภาวะแทรกซ้อน STH</b>: Trichuris → rectal prolapse; Ascaris → ลำไส้อุดตัน/ท่อน้ำดี; A. duodenale ติดทางปาก/น้ำนมได้; Toxocara → OLM คล้าย retinoblastoma</li>\n</ul>",
-  "arthropod": "<ul>\n<li><span class=\"xsea\">SEA</span> <b>Leptotrombidium</b> (chigger, ระยะ larva) → scrub typhus</li>\n<li><b>เหาเสื้อผ้า</b> → epidemic typhus (ออกแล้ว), trench fever, louse-borne relapsing fever</li>\n<li><b>Xenopsylla</b> → plague + murine typhus; <b>Tunga penetrans</b> ฝังในผิว</li>\n<li><b>Myiasis</b>: Dermatobia hominis (ไข่ติดยุง = phoresy), New World screwworm Cochliomyia hominivorax</li>\n<li><b>เห็บ</b>: เห็บแข็งมี scutum, เห็บอ่อน Ornithodoros → relapsing fever, tick paralysis</li>\n<li><b>ยุง</b>: ลูกน้ำ Anopheles ไม่มี siphon นอนขนานผิวน้ำ, ไข่ Anopheles มี float, ไข่ Aedes ทนแห้ง; <b>kdr</b> (sodium channel) → ดื้อ pyrethroid/DDT</li>\n<li><span class=\"xsea\">SEA</span> <b>Wolbachia</b>: incompatible insect technique เทียบกับ population replacement (มาเลเซียใช้สาย wAlbB)</li>\n<li><b>Phlebotomus</b> (Old World sandfly) คู่กับ Lutzomyia ที่ออกแล้ว</li>\n</ul>"
+  "arthropod": "<ul>\n<li><span class=\"xsea\">SEA</span> <b>Leptotrombidium</b> (chigger, ระยะ larva) → scrub typhus</li>\n<li><b>เหาเสื้อผ้า</b> → epidemic typhus (ออกแล้ว), trench fever, louse-borne relapsing fever</li>\n<li><b>Xenopsylla</b> → plague + murine typhus; <b>Tunga penetrans</b> ฝังในผิว</li>\n<li><b>Myiasis</b>: Dermatobia hominis (ไข่ติดยุง = phoresy), New World screwworm Cochliomyia hominivorax</li>\n<li><b>เห็บ</b>: เห็บแข็งมี scutum, เห็บอ่อน <i>Ornithodoros</i> → tick-borne relapsing fever; <b>tick paralysis</b> ส่วนใหญ่เกิดจากเห็บแข็ง (<i>Dermacentor</i>, <i>Ixodes holocyclus</i>)</li>\n<li><b>ยุง</b>: ลูกน้ำ Anopheles ไม่มี siphon นอนขนานผิวน้ำ, ไข่ Anopheles มี float, ไข่ Aedes ทนแห้ง; <b>kdr</b> (sodium channel) → ดื้อ pyrethroid/DDT</li>\n<li><span class=\"xsea\">SEA</span> <b>Wolbachia</b>: incompatible insect technique เทียบกับ population replacement (มาเลเซียใช้สาย wAlbB)</li>\n<li><b>Phlebotomus</b> (Old World sandfly) คู่กับ Lutzomyia ที่ออกแล้ว</li>\n</ul>"
  }
 }
