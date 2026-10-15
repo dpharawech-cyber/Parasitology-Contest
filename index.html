@@ -906,6 +906,9 @@ toggle('tShuffle','shuffle');toggle('tWrong','wrong');
 function setExt(v){state.ext=v;document.getElementById('tExt').setAttribute('aria-pressed',v);document.body.classList.toggle('extmode',v);state.pos=0;state.revealed=false;buildList();renderTabs();}
 document.getElementById('tExt').onclick=()=>{setExt(!state.ext);if(view==='fc')setView('quiz');render();};
 renderTabs();renderYears();buildList();render();
+/* offline */
+if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost')){navigator.serviceWorker.register('sw.js').then(()=>navigator.serviceWorker.ready).then(()=>{const f=document.querySelector('.foot span');if(f&&!document.getElementById('offOk')){f.insertAdjacentHTML('beforeend',' · <b id="offOk" style="color:var(--ok)">พร้อมใช้ออฟไลน์</b>');}}).catch(()=>{});}
+
 </script>
 </body>
 </html>
