@@ -1572,6 +1572,791 @@
    "img": null,
    "pts": null,
    "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name four parasites that can cause autoinfection in humans.",
+   "a": "<i>Strongyloides stercoralis</i>, <i>Enterobius vermicularis</i>, <i>Hymenolepis nana</i>, <i>Capillaria philippinensis</i> (also <i>Taenia solium</i> → cysticercosis, <i>Cryptosporidium</i>)",
+   "kw": [
+    "strongyloides",
+    "enterobius",
+    "nana",
+    "capillaria"
+   ],
+   "ex": "autoinfection = ปรสิตครบวงจรหรือเพิ่มจำนวนในโฮสต์เดิมโดยไม่ต้องออกนอกร่างกาย ทำให้ติดเชื้อเรื้อรังได้นาน (Strongyloides ออกแล้วปี 2025 ในข้อ 'only STH that causes autoinfection')",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the mechanism of action of ivermectin.",
+   "a": "Binds <b>glutamate-gated chloride channels</b> in nerve and muscle cells of invertebrates → hyperpolarisation → <b>flaccid paralysis</b>",
+   "kw": [
+    "glutamate",
+    "chloride"
+   ],
+   "ex": "คนไม่มี glutamate-gated Cl⁻ channel และยาผ่าน blood–brain barrier ได้น้อย จึงปลอดภัย ใช้กับ Strongyloides, onchocerciasis, LF (MDA), scabies, เหา",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the mechanism of action of albendazole/mebendazole.",
+   "a": "Binds parasite <b>β-tubulin</b> → inhibits <b>microtubule polymerisation</b> → impaired glucose uptake and energy depletion",
+   "kw": [
+    "tubulin",
+    "microtubule"
+   ],
+   "ex": "benzimidazole ใช้กับ STH, neurocysticercosis, echinococcosis ห้ามในไตรมาสแรกของการตั้งครรภ์",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the mechanism of action of praziquantel.",
+   "a": "Increases tegument permeability to <b>calcium</b> (activates TRPM_PZQ channel) → spastic <b>paralysis</b> and tegumental damage",
+   "kw": [
+    "calcium",
+    "ca2",
+    "tegument"
+   ],
+   "ex": "ใช้กับ trematode ทุกชนิด (ยกเว้น Fasciola ใช้ triclabendazole) และ cestode ส่วนใหญ่",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the mechanism of action of pyrantel pamoate.",
+   "a": "<b>Depolarising neuromuscular blocker</b> (nicotinic acetylcholine receptor agonist) → spastic paralysis; worms are expelled alive",
+   "kw": [
+    "nicotinic",
+    "acetylcholine",
+    "depolariz",
+    "depolaris"
+   ],
+   "ex": "ใช้กับ Ascaris, hookworm, Enterobius ปลอดภัยในหญิงตั้งครรภ์ เป็นคู่ตรงข้ามกับ piperazine (GABA agonist → flaccid paralysis)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "basic",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the term for a disease naturally transmitted between vertebrate animals and humans, and the term for one maintained only in humans.",
+   "a": "<b>Zoonosis</b>; <b>anthroponosis</b>",
+   "kw": [
+    "zoonos",
+    "anthroponos"
+   ],
+   "ex": "ตัวอย่าง zoonosis: P. knowlesi, Brugia malayi subperiodic, Toxoplasma, Echinococcus; anthroponosis: P. falciparum, W. bancrofti, Enterobius",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "general",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the scientist known as the 'father of tropical medicine' who first showed that mosquitoes transmit filarial worms (1877–78).",
+   "a": "<b>Sir Patrick Manson</b>",
+   "kw": [
+    "manson"
+   ],
+   "ex": "Manson พบว่ายุง Culex เป็นพาหะของ W. bancrofti ที่เซียะเหมิน จีน และเป็นอาจารย์ที่แนะนำ Ronald Ross ให้ศึกษามาลาเรียกับยุง ก่อตั้ง London School of Tropical Medicine",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "general",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the German physician who discovered the blood fluke in Cairo in 1851.",
+   "a": "<b>Theodor Bilharz</b> (hence 'bilharziasis')",
+   "kw": [
+    "bilharz"
+   ],
+   "ex": "Schistosomiasis จึงมีชื่อเรียกอีกชื่อว่า bilharziasis",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "general",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the date of World Malaria Day and World NTD Day.",
+   "a": "World Malaria Day: <b>25 April</b>; World NTD Day: <b>30 January</b> (World Mosquito Day: 20 August)",
+   "kw": [
+    "25 april",
+    "april 25",
+    "30 jan",
+    "jan 30"
+   ],
+   "ex": "World Mosquito Day ระลึกถึงวันที่ Ronald Ross พบเชื้อมาลาเรียในยุงในปี 1897",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "general",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the organisation that has led the global Guinea worm eradication campaign since 1986.",
+   "a": "<b>The Carter Center</b> (with WHO, CDC and UNICEF)",
+   "kw": [
+    "carter"
+   ],
+   "ex": "ปี 1986 มีผู้ป่วย ~3.5 ล้านคน ปัจจุบันเหลือหลักสิบรายต่อปี ไม่มีวัคซีนหรือยา ใช้การกรองน้ำ (กรองเอา Cyclops ออก) การให้ความรู้ และกันผู้ป่วยไม่ให้ลงแหล่งน้ำ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "general",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the WHO-recommended combination for MDA of lymphatic filariasis in countries without onchocerciasis that offers the fastest clearance.",
+   "a": "<b>IDA</b>: ivermectin + diethylcarbamazine + albendazole",
+   "kw": [
+    "ida",
+    "ivermectin+diethylcarbamazine",
+    "ivermectin+dec"
+   ],
+   "ex": "WHO แนะนำ IDA ตั้งแต่ 2017 ในพื้นที่ที่ไม่มี onchocerciasis หรือ loiasis",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the drug of choice for cryptosporidiosis in immunocompetent patients.",
+   "a": "<b>Nitazoxanide</b> (in AIDS: restore immunity with ART)",
+   "kw": [
+    "nitazoxanide"
+   ],
+   "ex": "ใน HIV ที่ CD4 ต่ำ ยาได้ผลน้อย การรักษาหลักคือ ART ให้ภูมิคุ้มกันกลับมา",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the drug of choice for giardiasis and amoebic colitis.",
+   "a": "<b>Metronidazole</b> or <b>tinidazole</b> (amoebiasis: followed by a luminal agent such as paromomycin)",
+   "kw": [
+    "metronidazole",
+    "tinidazole"
+   ],
+   "ex": "metronidazole ฆ่า trophozoite ในเนื้อเยื่อ แต่ไม่ฆ่า cyst ในลำไส้ จึงต้องตามด้วย luminal agent (paromomycin, iodoquinol, diloxanide furoate) ในโรค amoebiasis",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the standard treatment of toxoplasmic encephalitis.",
+   "a": "<b>Pyrimethamine + sulfadiazine + folinic acid (leucovorin)</b>; alternative: TMP-SMX",
+   "kw": [
+    "pyrimethamine",
+    "sulfadiazine"
+   ],
+   "ex": "folinic acid ป้องกันการกดไขกระดูกจาก pyrimethamine ในหญิงตั้งครรภ์ช่วงแรกใช้ spiramycin (ออกแล้วปี 2024)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the drugs used to treat primary amoebic meningoencephalitis, and the usual source of infection.",
+   "a": "Combination includes <b>miltefosine</b>, amphotericin B, azoles, rifampin; acquired by <b>warm fresh water entering the nose</b> (swimming, diving, nasal rinsing)",
+   "kw": [
+    "miltefosine",
+    "amphotericin"
+   ],
+   "ex": "Naegleria fowleri ชอบน้ำจืดอุ่น เข้าทางจมูกผ่าน cribriform plate ไปตาม olfactory nerve สู่สมอง ตายเกือบทั้งหมด",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the intestinal flagellate that has no cyst stage and is thought to be transmitted inside Enterobius eggs.",
+   "a": "<b><i>Dientamoeba fragilis</i></b>",
+   "kw": [
+    "dientamoeba"
+   ],
+   "ex": "ชื่อเป็น amoeba แต่จริงเป็น trichomonad flagellate ที่ไม่มีแฟลเจลลา trophozoite มักมี 2 นิวเคลียส พบร่วมกับ Enterobius บ่อย",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the special stain used to detect microsporidia spores in stool and the organelle they use to infect host cells.",
+   "a": "<b>Modified trichrome (Weber) stain</b> (or calcofluor white); <b>polar tube (polar filament)</b>",
+   "kw": [
+    "trichrome",
+    "weber",
+    "calcofluor",
+    "polar tube",
+    "polar filament"
+   ],
+   "ex": "Microsporidia ปัจจุบันจัดเป็นเชื้อราที่ใกล้เคียง เช่น Enterocytozoon bieneusi ทำให้ท้องเสียเรื้อรังในผู้ป่วย AIDS รักษาด้วย albendazole (Encephalitozoon) หรือ fumagillin",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "What are the 'Leishman–Donovan bodies'?",
+   "a": "<b>Amastigotes</b> of <i>Leishmania</i> inside macrophages (oval, ~2–4 µm, with nucleus and rod-shaped kinetoplast)",
+   "kw": [
+    "amastigote"
+   ],
+   "ex": "พบใน spleen/bone marrow aspirate ของ visceral leishmaniasis (ภาพออกปี 2025) ตั้งชื่อตาม Leishman และ Donovan ที่รายงานในปี 1903",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the Plasmodium stage that penetrates the mosquito midgut wall to form an oocyst.",
+   "a": "<b>Ookinete</b> (motile zygote)",
+   "kw": [
+    "ookinete"
+   ],
+   "ex": "วงจรในยุง: gametocyte → gamete → zygote → ookinete → oocyst (ผนังกระเพาะ) → sporozoite → ต่อมน้ำลาย (ออกแล้วปี 2024)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the single-dose drug approved for radical cure of P. vivax malaria, and the test required before giving it.",
+   "a": "<b>Tafenoquine</b>; quantitative <b>G6PD testing</b> (requires ≥70% activity)",
+   "kw": [
+    "tafenoquine"
+   ],
+   "ex": "ข้อดีกว่า primaquine 14 วันคือกินครั้งเดียว แต่ครึ่งชีวิตยาว ถ้าขาด G6PD ทำให้ RBC แตกนานกว่า จึงต้องตรวจเชิงปริมาณ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the three infective stages of Toxoplasma gondii for humans.",
+   "a": "<b>Oocyst</b> (cat faeces), <b>tissue cyst with bradyzoites</b> (undercooked meat), <b>tachyzoite</b> (transplacental, transfusion, transplant)",
+   "kw": [
+    "oocyst+bradyzoite",
+    "oocyst+tissue cyst"
+   ],
+   "ex": "เคยถาม stage ที่ก่อโรค (tachyzoite) และ definitive host (แมว) แล้ว ข้อนี้คือเส้นทางติดเชื้อทั้งหมด",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "protozoa",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the protozoan acquired by eating undercooked beef or pork that causes intestinal sarcocystosis, and the host role humans play.",
+   "a": "<b><i>Sarcocystis hominis</i></b> (beef) / <b><i>S. suihominis</i></b> (pork); humans are the <b>definitive host</b>",
+   "kw": [
+    "sarcocystis"
+   ],
+   "ex": "ต่างจาก S. nesbitti (Tioman) ที่คนเป็น dead-end intermediate host และเกิดโรคในกล้ามเนื้อ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the ciliated larva that hatches from Diphyllobothrium eggs in water, and the larval stage that develops in the copepod.",
+   "a": "<b>Coracidium</b> → <b>procercoid</b> in the copepod → plerocercoid in fish",
+   "kw": [
+    "coracidium",
+    "procercoid"
+   ],
+   "ex": "ระยะตัวอ่อนของตืดปลา: egg → coracidium (ว่ายน้ำ) → procercoid (Cyclops) → plerocercoid/sparganum (ปลา) → adult (คน) ถามระยะ plerocercoid แล้วหลายครั้ง",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the classic imaging sign of a ruptured hydatid cyst with detached floating membranes.",
+   "a": "<b>Water lily sign</b> (Camalote sign)",
+   "kw": [
+    "water lily",
+    "camalote"
+   ],
+   "ex": "ภาพ CT/อัลตราซาวด์ของ E. granulosus: cyst มี daughter cysts (cyst ซ้อน cyst) และ 'hydatid sand' คือ protoscolices ในน้ำ cyst",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the drug used to treat neurocysticercosis with viable cysts.",
+   "a": "<b>Albendazole</b> (± praziquantel) together with <b>corticosteroids</b>",
+   "kw": [
+    "albendazole"
+   ],
+   "ex": "ปี 2024 ถามว่าทำไมต้องให้ dexamethasone ร่วม ข้อนี้คือยาหลัก ห้ามให้ยาฆ่าพยาธิถ้ามี cysticercal encephalitis หรือ calcified cysts อย่างเดียว",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the larval stage of Echinococcus granulosus found in humans.",
+   "a": "<b>Hydatid cyst</b> (metacestode) containing protoscolices",
+   "kw": [
+    "hydatid",
+    "metacestode"
+   ],
+   "ex": "คนติดจากการกลืนไข่ในอุจจาระสุนัข ไม่ใช่จากการกินเนื้อสัตว์ cyst พบที่ตับ (~70%) และปอด (~20%)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "cestode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the type of larval tapeworm stage found in the flea that transmits Dipylidium caninum.",
+   "a": "<b>Cysticercoid</b>",
+   "kw": [
+    "cysticercoid"
+   ],
+   "ex": "Cysticercoid = ตัวอ่อนตืดในแมลง (Dipylidium, Hymenolepis) ส่วน cysticercus = ในเนื้อเยื่อสัตว์มีกระดูกสันหลัง (Taenia)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the snail intermediate hosts of Schistosoma japonicum and S. haematobium.",
+   "a": "<i>S. japonicum</i>: <b><i>Oncomelania</i></b> (amphibious); <i>S. haematobium</i>: <b><i>Bulinus</i></b>",
+   "kw": [
+    "oncomelania",
+    "bulinus"
+   ],
+   "ex": "ปี 2025 ถาม Biomphalaria (S. mansoni) แล้ว ที่เหลือคือ Oncomelania และ Bulinus (S. mekongi ใช้ Neotricula)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the stage the cercaria transforms into after penetrating human skin.",
+   "a": "<b>Schistosomulum</b>",
+   "kw": [
+    "schistosomul"
+   ],
+   "ex": "cercaria สลัดหางทิ้งแล้วกลายเป็น schistosomulum เดินทางไปปอดและตับก่อนเป็นตัวเต็มวัยในหลอดเลือดดำ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the specimen of choice for diagnosing paragonimiasis and its characteristic appearance.",
+   "a": "<b>Sputum</b> — often blood-stained/<b>rusty brown</b> sputum containing operculated eggs (also stool from swallowed sputum)",
+   "kw": [
+    "sputum"
+   ],
+   "ex": "ต้องแยกจากวัณโรค (ถามแล้วปี 2025) การย้อม AFB ทำลายไข่ Paragonimus ได้ จึงควรดูเสมหะสดด้วย",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the drug of choice for opisthorchiasis/clonorchiasis.",
+   "a": "<b>Praziquantel</b> (alternative: albendazole)",
+   "kw": [
+    "praziquantel"
+   ],
+   "ex": "ยาฆ่าพยาธิไม่ย้อนความเสี่ยงมะเร็งท่อน้ำดีที่เกิดไปแล้ว การป้องกันคือเลิกกินปลาดิบ (ก้อยปลา)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "trematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the Schistosoma species whose adult worms live in the vesical venous plexus, and the time of day urine should be collected.",
+   "a": "<i>S. haematobium</i>; collect urine around <b>noon (10 am–2 pm)</b> after exercise",
+   "kw": [
+    "haematobium",
+    "noon",
+    "midday"
+   ],
+   "ex": "ไข่ปล่อยออกมากที่สุดช่วงเที่ยง ใช้วิธีกรองปัสสาวะ (urine filtration)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the reservoir hosts of subperiodic Brugia malayi in Malaysia.",
+   "a": "<b>Leaf monkeys and macaques</b>, also <b>domestic cats</b>",
+   "kw": [
+    "monkey",
+    "macaque",
+    "cat"
+   ],
+   "ex": "B. malayi แบบ nocturnal subperiodic ในป่าพรุของมาเลเซีย/ภาคใต้ไทยเป็น zoonosis พาหะคือยุง Mansonia (ออกแล้วปี 2025)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the two intermediate hosts in the life cycle of Gnathostoma spinigerum.",
+   "a": "First: <b>copepod (<i>Cyclops</i>)</b>; second: <b>freshwater fish</b>, frogs, snakes (humans are accidental hosts)",
+   "kw": [
+    "cyclops",
+    "copepod"
+   ],
+   "ex": "definitive host คือหมาแมว ตัวเต็มวัยอยู่ในก้อนที่ผนังกระเพาะ คนติดจากปลาดิบ/ส้มฟัก",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the definitive host of Angiostrongylus cantonensis and where the adult lives.",
+   "a": "<b>Rats</b> (<i>Rattus</i>); adults live in the <b>pulmonary arteries</b>",
+   "kw": [
+    "rat"
+   ],
+   "ex": "ตัวอ่อนในคนเดินทางไปสมองแต่โตเป็นตัวเต็มวัยไม่ได้ ทำให้ eosinophilic meningitis",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the skin and lymphatic signs of chronic onchocerciasis.",
+   "a": "<b>Leopard skin</b> (depigmentation), lizard skin, <b>hanging groin</b>, subcutaneous onchocercomata (nodules); eye: sclerosing keratitis → river blindness",
+   "kw": [
+    "leopard",
+    "hanging groin",
+    "nodule",
+    "onchocercoma"
+   ],
+   "ex": "'cigarette-paper skin' ออกแล้วปี 2024 ข้อนี้เป็นอาการอื่นที่ใช้ชื่อคล้ายกัน",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the urinary complication of Wuchereria bancrofti infection.",
+   "a": "<b>Chyluria</b> (milky urine from lymphatic–urinary fistula)",
+   "kw": [
+    "chyluria"
+   ],
+   "ex": "อาการอื่น: hydrocele, lymphoedema/elephantiasis (ภาพออกแล้ว 2025), acute adenolymphangitis",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the serological antigen used in ELISA to diagnose toxocariasis.",
+   "a": "<b>Toxocara excretory–secretory (TES) antigen</b>",
+   "kw": [
+    "excretory",
+    "tes"
+   ],
+   "ex": "ตรวจอุจจาระไม่เจอเพราะคนไม่ใช่ definitive host ตัวอ่อนไม่โตเป็นตัวเต็มวัย",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "State the traditional method of removing an emerging Guinea worm.",
+   "a": "Slowly <b>winding it around a small stick</b> a few centimetres a day over days to weeks",
+   "kw": [
+    "stick",
+    "wind"
+   ],
+   "ex": "ห้ามดึงขาด เพราะตัวที่ขาดค้างในเนื้อจะอักเสบรุนแรง ว่ากันว่าภาพนี้คือที่มาของสัญลักษณ์ Rod of Asclepius",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the biliary complication of ascariasis.",
+   "a": "<b>Biliary ascariasis</b> — worm migrating into the bile duct causing obstructive jaundice, cholangitis, pancreatitis; also intestinal obstruction in children",
+   "kw": [
+    "biliary",
+    "bile",
+    "pancreatit",
+    "obstruct"
+   ],
+   "ex": "ตัวเต็มวัยชอบมุดรู โดยเฉพาะเมื่อมีไข้หรือได้ยาสลบ",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "nematode",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the gastric condition caused by acute allergic reaction to Anisakis even without live larvae persisting.",
+   "a": "<b>Gastroallergic anisakiasis</b> (urticaria/anaphylaxis with gastric symptoms)",
+   "kw": [
+    "gastroallergic",
+    "allerg",
+    "anaphyla"
+   ],
+   "ex": "การแช่แข็งปลาฆ่าตัวอ่อนได้ แต่แอนติเจนที่ทนความร้อนยังทำให้แพ้ได้ รักษาแบบเฉียบพลันด้วยการส่องกล้องคีบตัวออก",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the bacterial larvicide widely used against mosquito larvae.",
+   "a": "<b><i>Bacillus thuringiensis israelensis</i> (Bti)</b> (also <i>Lysinibacillus sphaericus</i>)",
+   "kw": [
+    "thuringiensis",
+    "bti",
+    "sphaericus"
+   ],
+   "ex": "สร้าง Cry toxin ที่ทำลายผนังลำไส้ลูกน้ำ ไม่เป็นพิษต่อคนและสัตว์อื่น อีกวิธีชีวภาพคือปลากินลูกน้ำ (Gambusia, ปลาหางนกยูง)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the insecticide class used to impregnate long-lasting insecticidal nets (LLINs).",
+   "a": "<b>Pyrethroids</b> (e.g. deltamethrin, permethrin); newer nets add PBO or chlorfenapyr",
+   "kw": [
+    "pyrethroid",
+    "deltamethrin",
+    "permethrin"
+   ],
+   "ex": "ยุงดื้อ pyrethroid ผ่าน kdr และ metabolic resistance (P450) มุ้งรุ่นใหม่ใส่ PBO เพื่อยับยั้ง P450",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the severe form of scabies seen in immunocompromised patients and its key feature.",
+   "a": "<b>Crusted (Norwegian) scabies</b> — thick hyperkeratotic crusts containing <b>thousands to millions of mites</b>, highly contagious, often little itch",
+   "kw": [
+    "crusted",
+    "norwegian"
+   ],
+   "ex": "รักษาด้วย ivermectin กินร่วมกับ permethrin 5% ทา (ส่วน scabies ทั่วไปใช้ permethrin 5% ทั้งตัว)",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the vector genus of Mansonella perstans and M. ozzardi.",
+   "a": "<b><i>Culicoides</i></b> (biting midges); <i>M. ozzardi</i> also by <i>Simulium</i>",
+   "kw": [
+    "culicoides",
+    "midge"
+   ],
+   "ex": "Culicoides ยังเป็นพาหะที่สงสัยของ Leishmania martiniquensis ในไทย",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the genus of the tsetse fly and the disease it transmits.",
+   "a": "<b><i>Glossina</i></b> → African trypanosomiasis (sleeping sickness)",
+   "kw": [
+    "glossina"
+   ],
+   "ex": "เคยถามสีกับดัก tsetse (น้ำเงิน-ดำ) 3 ครั้ง ข้อต่อไปมักถามชื่อสกุล G. palpalis กลุ่มริมน้ำ → gambiense, G. morsitans กลุ่มสะวันนา → rhodesiense",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the role of the housefly Musca domestica in disease transmission.",
+   "a": "<b>Mechanical vector</b> — carries cysts/eggs/bacteria on body hairs and in vomit/faeces (e.g. <i>E. histolytica</i>, <i>Giardia</i>, Shigella)",
+   "kw": [
+    "mechanical"
+   ],
+   "ex": "คู่ตรงข้ามกับ biological vector ที่เชื้อต้องเจริญในตัวแมลง แมลงวันบ้านยังเป็นต้นเหตุ myiasis ได้น้อย",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the pupal stage nickname of mosquitoes and one feature of mosquito pupae.",
+   "a": "<b>Tumbler</b>; comma-shaped, does <b>not feed</b>, breathes through a pair of <b>respiratory trumpets</b> (larvae are 'wrigglers')",
+   "kw": [
+    "tumbler",
+    "trumpet"
+   ],
+   "ex": "วงจรยุง: ไข่ → ลูกน้ำ 4 ระยะ (wriggler) → ตัวโม่ง (pupa, tumbler) → ตัวเต็มวัย ทั้งหมดใช้เวลา ~7–14 วัน",
+   "img": null,
+   "pts": null,
+   "note": null
+  },
+  {
+   "ch": "arthropod",
+   "y": [],
+   "ext": true,
+   "src": "Extra · เก็ง Flashcard",
+   "q": "Name the genus of the bed bug and whether it is a proven vector of human disease.",
+   "a": "<b><i>Cimex</i></b> (<i>C. lectularius</i>, <i>C. hemipterus</i>); <b>not a proven vector</b> of any human pathogen",
+   "kw": [
+    "cimex"
+   ],
+   "ex": "ปี 2025 ถามอวัยวะดูดเลือดของ bedbug (proboscis/rostrum) แล้ว Triatoma อยู่ในอันดับ Hemiptera เดียวกันแต่เป็นพาหะ T. cruzi",
+   "img": null,
+   "pts": null,
+   "note": null
   }
  ],
  "notes": {
